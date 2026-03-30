@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "chestnyznak": {
+      "command": "npx",
+      "args": ["-y", "@theyahia/chestnyznak-mcp"]
+    }
+  }
+}
