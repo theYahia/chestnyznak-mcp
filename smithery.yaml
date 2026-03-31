@@ -1,0 +1,21 @@
+name: chestnyznak-mcp
+description: MCP server for Chestniy ZNAK (Честный ЗНАК) — product marking verification for Russian market
+icon: shield-check
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    properties:
+      CHESTNYZNAK_TOKEN:
+        type: string
+        description: "API token for authenticated endpoints (search, CIS info). Public tools work without it."
+    required: []
+  commandFunction:
+    |-
+    (config) => ({
+      command: "node",
+      args: ["dist/index.js"],
+      env: {
+        ...(config.CHESTNYZNAK_TOKEN ? { CHESTNYZNAK_TOKEN: config.CHESTNYZNAK_TOKEN } : {})
+      }
+    })

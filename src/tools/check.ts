@@ -6,8 +6,12 @@ export const checkMarkingCodeSchema = z.object({
   code: z.string().describe("Код маркировки товара (DataMatrix, штрихкод и т.д.)"),
 });
 
-export async function handleCheckMarkingCode(params: z.infer<typeof checkMarkingCodeSchema>): Promise<string> {
-  const result = await crptPost("/check", { code: params.code }) as CrptCheckResponse;
+export async function handleCheckMarkingCode(
+  params: z.infer<typeof checkMarkingCodeSchema>,
+): Promise<string> {
+  const result = (await crptPost("/check", {
+    code: params.code,
+  })) as CrptCheckResponse;
 
   const summary = {
     code: params.code,
@@ -24,8 +28,12 @@ export const getProductInfoSchema = z.object({
   code: z.string().describe("Код маркировки товара (DataMatrix, штрихкод и т.д.)"),
 });
 
-export async function handleGetProductInfo(params: z.infer<typeof getProductInfoSchema>): Promise<string> {
-  const result = await crptPost("/check", { code: params.code }) as CrptCheckResponse;
+export async function handleGetProductInfo(
+  params: z.infer<typeof getProductInfoSchema>,
+): Promise<string> {
+  const result = (await crptPost("/check", {
+    code: params.code,
+  })) as CrptCheckResponse;
 
   const info = {
     code: params.code,
