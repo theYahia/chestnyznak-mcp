@@ -29,3 +29,33 @@ export interface CrptCheckResponse {
   producerInn?: string;
   [key: string]: unknown;
 }
+
+export interface CrptAuthSearchResponse {
+  results?: CrptSearchItem[];
+  total?: number;
+  [key: string]: unknown;
+}
+
+export interface CrptSearchItem {
+  cis?: string;
+  gtin?: string;
+  producerName?: string;
+  productName?: string;
+  brand?: string;
+  status?: string;
+  [key: string]: unknown;
+}
+
+export interface CrptBatchResponse {
+  results?: CrptBatchItem[];
+  [key: string]: unknown;
+}
+
+export interface CrptBatchItem {
+  cis?: string;
+  codeFounded?: boolean;
+  isValid?: boolean;
+  status?: string;
+  productName?: string;
+  [key: string]: unknown;
+}
