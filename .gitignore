@@ -1,3 +1,13 @@
 node_modules/
 dist/
+coverage/
 *.tgz
+*.log
+
+# Local env / secrets (CHESTNYZNAK_TOKEN etc.)
+.env
+.env.local
+.env.*.local
+
+# Editor / OS
+.DS_Store

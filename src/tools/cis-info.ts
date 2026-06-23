@@ -1,22 +1,45 @@
 import { z } from "zod";
-import { crptAuthGet, hasToken } from "../client.js";
+import { crptAuthPost } from "../client.js";
+import type { CrptCisInfoResponse } from "../types.js";
+
+// Real True API CIS lookup: POST /api/v3/true-api/cises/info with a JSON array of CIS
+// strings (plural "cises", max 100). ⚠️ Method/version are research-derived and
+// UNVERIFIED against a live token (True API requires cert-challenge auth). Parsing is
+// tolerant. See README "Авторизация".
 
 export const getCisInfoSchema = z.object({
-  cis: z.string().describe("CIS (код идентификации) для получения полной информации из CRPT API"),
+  cis: z
+    .string()
+    .trim()
+    .min(1)
+    .describe("CIS (код идентификации) для получения информации из True API"),
 });
+
+export interface CisInfoResult {
+  cis: string;
+  gtin: string | null;
+  productName: string | null;
+  producerName: string | null;
+  producerInn: string | null;
+  status: string | null;
+}
 
 export async function handleGetCisInfo(
   params: z.infer<typeof getCisInfoSchema>,
-): Promise<string> {
-  if (!hasToken()) {
-    return JSON.stringify({
-      error: "CHESTNYZNAK_TOKEN не задан. CIS-запросы доступны только с авторизацией.",
-      hint: "Установите переменную окружения CHESTNYZNAK_TOKEN.",
-    }, null, 2);
-  }
+): Promise<CisInfoResult> {
+  const result = await crptAuthPost("/api/v3/true-api/cises/info", [params.cis]);
 
-  const encoded = encodeURIComponent(params.cis);
-  const result = await crptAuthGet(`/true-api/true-api/cis/info?cis=${encoded}`);
+  // The endpoint returns either a single object or an array (one entry per CIS).
+  const entry = (Array.isArray(result) ? result[0] : result) as
+    | CrptCisInfoResponse
+    | undefined;
 
-  return JSON.stringify(result, null, 2);
+  return {
+    cis: entry?.cis ?? params.cis,
+    gtin: entry?.gtin ?? null,
+    productName: entry?.productName ?? null,
+    producerName: entry?.producerName ?? null,
+    producerInn: entry?.producerInn ?? null,
+    status: entry?.status ?? null,
+  };
 }
