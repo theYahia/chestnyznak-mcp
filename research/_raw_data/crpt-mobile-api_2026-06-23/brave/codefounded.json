@@ -1,0 +1,29 @@
+{
+  "type": "search",
+  "query": {
+    "original": "\"codeFounded\" честный знак API response JSON",
+    "show_strict_warning": false,
+    "cleaned": "codeFounded честный знак API response JSON",
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": true,
+    "should_fallback": true,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": false,
+    "state": "",
+    "search_operators": {
+      "applied": true,
+      "cleaned_query": "codeFounded честный знак API response JSON"
+    }
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [],
+    "top": [],
+    "side": []
+  }
+}

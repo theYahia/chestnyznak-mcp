@@ -1,0 +1,902 @@
+{
+  "type": "search",
+  "query": {
+    "original": "li0ard nechestniy_znak github mobile API честный знак",
+    "show_strict_warning": false,
+    "is_navigational": true,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "GitHub - li0ard/nechestniy_znak: Библеотека обертка для API ГИС МТ “Честный Знак”",
+        "url": "https://github.com/li0ard/nechestniy_znak",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Библеотека обертка для API ГИС МТ “Честный Знак”. Contribute to li0ard/nechestniy_znak development by creating an account on GitHub.",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/li0ard/nechestniy_znak",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› li0ard  › nechestniy_znak"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Qy0XM84pX1KgTpoa8wXT08u811-uEELug2tktusa99I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS9l/NDU5YTBlNGMyMGE5/N2EwYzlkNTc4ODQ2/ZjA4YjAwMzM2MjE3/MzAzNDAwZjY5ZTU3/NGQzZThlYjA3NDU4/M2MyL2xpMGFyZC9u/ZWNoZXN0bml5X3pu/YWs",
+          "original": "https://opengraph.githubassets.com/e459a0e4c20a97a0c9d578846f08b00336217303400f69e574d3e8eb074583c2/li0ard/nechestniy_znak",
+          "logo": false
+        },
+        "software": {
+          "name": "nechestniy_znak",
+          "author": "li0ard",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 16,
+          "forks": 4,
+          "programmingLanguage": "Python"
+        },
+        "extra_snippets": [
+          "Библеотека обертка для API ГИС МТ “Честный Знак”. Contribute to li0ard/nechestniy_znak development by creating an account on GitHub.",
+          "Библеотека обертка для API ГИС МТ \"Честный Знак\" и API ЕГАИС · Документация · Требуется Python версии 3.8 или выше · pip install nechestniy_znak ·",
+          "Библеотека обертка для API ГИС МТ \"Честный Знак\" и API ЕГАИС ... from nechestniy_znak import Crpt, Egais crpt = Crpt() print(crpt.infoFromEAN13(\"46494139\")) print(crpt.infoFromDataMatrix(\"00000046209849Uon<TYfACyAJPHJ\")) print(crpt.infoFromQr(\"chek.markirovka.nalog.ru/kc/?kiz=RU-430302-AAA4050108\")) print(crpt.infoFromReceipt(\"t=20231203T2319&s=261.80&fn=7281440701309134&i=10027&fp=3516337491&n=1\")) egais = Egais() print(egais.infoFromOldMark(\"22N00001543ZQO6QFMW37ZK80215021095854A4P1E4IHMW86GT5RTFHN5XXFABT9TZ9\", \"104-101355000854071217387105240265\"))"
+        ]
+      },
+      {
+        "title": "nechestniy_znak/test.py at main · li0ard/nechestniy_znak",
+        "url": "https://github.com/li0ard/nechestniy_znak/blob/main/test.py",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Библеотека обертка для API ГИС МТ “Честный Знак”. Contribute to li0ard/nechestniy_znak development by creating an account on GitHub.",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/li0ard/nechestniy_znak/blob/main/test.py",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› li0ard  › nechestniy_znak  › blob  › main  › test.py"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/hRFvLghXrS5IfNZtJL70h7QYa0i81etHrrHatFJmtC8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS8z/MjMzODJkN2UwZjY4/ODBlMTFkYjVlNmQ2/NGI0Y2UyNDU5MDdj/OTI0MjJiYWMwNDhl/MTZiMTQxZjc5YmFk/YjY0L2xpMGFyZC9u/ZWNoZXN0bml5X3pu/YWs",
+          "original": "https://opengraph.githubassets.com/323382d7e0f6880e11db5e6d64b4ce245907c92422bac048e16b141f79badb64/li0ard/nechestniy_znak",
+          "logo": false
+        },
+        "software": {
+          "name": "nechestniy_znak",
+          "author": "li0ard",
+          "is_npm": false,
+          "is_pypi": false,
+          "programmingLanguage": ""
+        }
+      },
+      {
+        "title": "li0ard (Nikolai Konovalov) · GitHub",
+        "url": "https://github.com/li0ard",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Started by writing Discord and Telegram bots, now architect cryptography libraries, building eMRTD tools, and writing articles about my work. ... nechestniy_znak - Library for working with national product labeling system in Russia (In russian ...",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/li0ard",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› li0ard"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/JfrkYjh8fk5w8IYCPKNxIn0BbnbWNw0osOyosRV7RmA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzQ3MjA1MjU4/P3Y9NA",
+          "original": "https://avatars.githubusercontent.com/u/47205258?v=4",
+          "logo": false
+        },
+        "extra_snippets": [
+          "My name is Nikolai Konovalov, also you may know me as li0ard (pronounced Lizard). I'm cryptography engineer, OSS maintainer and eMRTD researcher. I ❤️ coffee, Linux, music, books and films. Started by writing Discord and Telegram bots, now architect cryptography libraries, building eMRTD tools, and writing articles about my work. ... nechestniy_znak - Library for working with national product labeling system in Russia (In russian - Честный знак)",
+          "Fullstack TS developer, cryptography engineer, eMRTD researcher - li0ard"
+        ]
+      },
+      {
+        "title": "GitHub - li0ard/li0ard",
+        "url": "https://github.com/li0ard/li0ard",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Started by writing Discord and Telegram bots, now architect cryptography libraries, building eMRTD tools, and writing articles about my work. ... nechestniy_znak - Library for working with national product labeling system in Russia (In russian ...",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/li0ard/li0ard",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› li0ard  › li0ard"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/iWiFGSqysqPqLsgn7GKIq4H3Wr1JFf_yUEnPeiPymrg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS9k/NDJiZDdhN2IyZjk4/Y2IxYWZmNDJlZTU0/ZjdiNzQyNDczZTdh/YjhiYjQzYjNkNTQx/YTQ0N2UzN2RkODc1/OWE4L2xpMGFyZC9s/aTBhcmQ",
+          "original": "https://opengraph.githubassets.com/d42bd7a7b2f98cb1aff42ee54f7b742473e7ab8bb43b3d541a447e37dd8759a8/li0ard/li0ard",
+          "logo": false
+        },
+        "software": {
+          "name": "li0ard",
+          "author": "li0ard",
+          "is_npm": false,
+          "is_pypi": false,
+          "forks": 0,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "My name is Nikolai Konovalov, also you may know me as li0ard (pronounced Lizard). I'm cryptography engineer, OSS maintainer and eMRTD researcher. I ❤️ coffee, Linux, music, books and films. Started by writing Discord and Telegram bots, now architect cryptography libraries, building eMRTD tools, and writing articles about my work. ... nechestniy_znak - Library for working with national product labeling system in Russia (In russian - Честный знак)",
+          "Contribute to li0ard/li0ard development by creating an account on GitHub.",
+          "@li0ard/playready - Simple PlayReady CDM implementation",
+          "@li0ard/pssh - Protection System Specific Header (PSSH) decoder and encoder"
+        ]
+      },
+      {
+        "title": "nechestniy-znak",
+        "url": "https://pypi.org/project/nechestniy-znak/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "JavaScript is disabled in your browser · Please enable JavaScript to proceed · A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/nechestniy-znak/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › nechestniy-znak"
+        }
+      },
+      {
+        "title": "GitHub - jqxl/py_cz_api: Python True API ГИС МТ “Честный Знак”",
+        "url": "https://github.com/jqxl/py_cz_api",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Этот проект предназначен для автоматизации взаимодействия с системой &quot;Честный Знак&quot; через True API.",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/jqxl/py_cz_api",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› jqxl  › py_cz_api"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/dLnH9mzxGCntP7ye_PxlZ0hp_qi0Ma_JONEl_7wl6HU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS9h/NDNiNTQwYTIyNGFl/MTJlMTkyNTk1NjQ4/ZDZiMmMyNGI1Yjhk/YjY3NzQ1OThlMmY2/ODU2Nzc1ZjYyZTg5/YzFkL2pxeGwvcHlf/Y3pfYXBp",
+          "original": "https://opengraph.githubassets.com/a43b540a224ae12e192595648d6b2c24b5b8db6774598e2f6856775f62e89c1d/jqxl/py_cz_api",
+          "logo": false
+        },
+        "software": {
+          "name": "py_cz_api",
+          "author": "jqxl",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 4,
+          "forks": 2,
+          "programmingLanguage": "Python 100.0% | Python 100.0%"
+        },
+        "extra_snippets": [
+          "Этот проект предназначен для автоматизации взаимодействия с системой \"Честный Знак\" через True API."
+        ]
+      },
+      {
+        "title": "!\"#$%&#’ True API (’)$#* 72.0",
+        "url": "https://znak-it.ru/wp-content/uploads/2022/04/true-api.pdf",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "1. D%6&amp;%7’&amp;#’ # 0$8.2#* &quot;)#1’&amp;’&amp;#* True API · 1.1. ;8’/+).&amp;.’ 26%#1.-’E$+2#’ P!C # !&quot;’)%+.)% O&gt;&lt; LC",
+        "profile": {
+          "name": "Znak-it",
+          "url": "https://znak-it.ru/wp-content/uploads/2022/04/true-api.pdf",
+          "long_name": "znak-it.ru",
+          "img": "https://imgs.search.brave.com/XifHzh8WVSnjEo70l8ILZ9oZWiQJoRbGV82gaYX3xfU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2EzZTkzZWM0/MDE3NTM1MDBiMDgx/Y2MwNGRkYTlkYzJl/ODE4ZTFjZWFlNDlj/NmQ3MDhmNGZkZThj/NTU3ZDI4Zi96bmFr/LWl0LnJ1Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "znak-it.ru",
+          "hostname": "znak-it.ru",
+          "favicon": "https://imgs.search.brave.com/XifHzh8WVSnjEo70l8ILZ9oZWiQJoRbGV82gaYX3xfU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2EzZTkzZWM0/MDE3NTM1MDBiMDgx/Y2MwNGRkYTlkYzJl/ODE4ZTFjZWFlNDlj/NmQ3MDhmNGZkZThj/NTU3ZDI4Zi96bmFr/LWl0LnJ1Lw",
+          "path": "› wp-content  › uploads  › 2022  › 04  › true-api.pdf"
+        },
+        "content_type": "pdf"
+      },
+      {
+        "title": "GitHub - kilylabs/true-api-cli: Консольная утилита для работы с маркировкой Честный Знак (TRUE API, СУЗ API, API ГИС МТ) на PHP · GitHub",
+        "url": "https://github.com/kilylabs/true-api-cli",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Неофициальная консольная утилита, написанная на PHP, для работы с системой Честный Знак.",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/kilylabs/true-api-cli",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› kilylabs  › true-api-cli"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/5jGNUEBZFzYKeN9iCNtOheyABruto6dVlw5IxCQn8F4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS8x/M2Q1N2U2ZjkzMDE4/ZmJmODQyMmNiMTll/NWUyOTBjNzc5NTc4/ZGIxMjAwYjlmMjlm/MmFkMjZiYWY5YWRj/ZWMwL2tpbHlsYWJz/L3RydWUtYXBpLWNs/aQ",
+          "original": "https://opengraph.githubassets.com/13d57e6f93018fbf8422cb19e5e290c779578db1200b9f29f2ad26baf9adcec0/kilylabs/true-api-cli",
+          "logo": false
+        },
+        "software": {
+          "name": "true-api-cli",
+          "author": "kilylabs",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 15,
+          "forks": 4,
+          "programmingLanguage": "PHP"
+        },
+        "extra_snippets": [
+          "Утилита позволяет просматривать и манипулировать данными системы Честный Знак посредством набора официальных API:",
+          "Неофициальная консольная утилита, написанная на PHP, для работы с системой Честный Знак."
+        ]
+      },
+      {
+        "title": "Честный знак · GitHub",
+        "url": "https://github.com/FairMark",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Неофициальные клиентские библиотеки. Честный знак has 2 repositories available. Follow their code on GitHub.",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/FairMark",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› FairMark"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/R7-KlHw4fHk-Xf-cdbl3eZQwW1bK_SBavUpI55zQHWg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzgwMDY1NTk0/P3M9MjAwJmFtcDt2/PTQ",
+          "original": "https://avatars.githubusercontent.com/u/80065594?s=200&amp;v=4",
+          "logo": false
+        },
+        "extra_snippets": [
+          "FairMark Client library for .NET (work in progress): OMS Cloud API + True API + EDO Lite API. Честный знак, ГИС МТ, ИС «Маркировка»."
+        ]
+      },
+      {
+        "title": "GitHub - vladdevops/crpt-api: https://честныйзнак.рф API · GitHub",
+        "url": "https://github.com/vladdevops/crpt-api",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Реализация API, на основе True API версии 17.2 от 19.03.2021, для работы с сайтом честныйзнак.рф",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/vladdevops/crpt-api",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› vladdevops  › crpt-api"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/TRoIcFcT810Q_vwnq1DKkf8TCx1emHqb_G8_hRo4ync/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS83/NzE3ZTExMmQ2MWEz/MTQyZWNhMTlkYWQ2/NDg5OWE2NGNjM2Q3/YjBmNjU0NTg0YmQ2/YjNjZjIwZjBiMzUy/ZDljL3ZsYWRkZXZv/cHMvY3JwdC1hcGk",
+          "original": "https://opengraph.githubassets.com/7717e112d61a3142eca19dad64899a64cc3d7b0f654584bd6b3cf20f0b352d9c/vladdevops/crpt-api",
+          "logo": false
+        },
+        "software": {
+          "name": "crpt-api",
+          "author": "vladdevops",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 2,
+          "forks": 0,
+          "programmingLanguage": "PHP"
+        },
+        "extra_snippets": [
+          "Реализация API, на основе True API версии 17.2 от 19.03.2021, для работы с сайтом честныйзнак.рф"
+        ]
+      },
+      {
+        "title": "Авторизация по API в Честном знаке",
+        "url": "https://cryptopro.ru/forum2/default.aspx?g=posts&t=20988",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Нужна помощь в авторизации по API в Честном знаке. Система авторизации там такая curl -X GET &quot;/auth/key&quot; -H &quot;accept: application/json&quot; Ответ {...",
+        "profile": {
+          "name": "Cryptopro",
+          "url": "https://cryptopro.ru/forum2/default.aspx?g=posts&t=20988",
+          "long_name": "cryptopro.ru",
+          "img": "https://imgs.search.brave.com/5WEYK82g49PMMMWkulKzIHO4zdjf0-6nYbuu7QP0dcs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTEyMzc2MGFi/NWU5ZmU3Zjg4MGU5/NGY0ZGQ4ZjI2NmY3/MTlhMzgzNjhhZWYz/NTI3MmM0YjA1OTY3/NDAwYjI3NC9jcnlw/dG9wcm8ucnUv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "cryptopro.ru",
+          "hostname": "cryptopro.ru",
+          "favicon": "https://imgs.search.brave.com/5WEYK82g49PMMMWkulKzIHO4zdjf0-6nYbuu7QP0dcs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTEyMzc2MGFi/NWU5ZmU3Zjg4MGU5/NGY0ZGQ4ZjI2NmY3/MTlhMzgzNjhhZWYz/NTI3MmM0YjA1OTY3/NDAwYjI3NC9jcnlw/dG9wcm8ucnUv",
+          "path": "› forum2  › default.aspx"
+        },
+        "extra_snippets": [
+          "Форум КриптоПро » Средства криптографической защиты информации » Linux, Solaris etc. » Авторизация по API в Честном знаке"
+        ]
+      },
+      {
+        "title": "GitHub - kilylabs/true-api-php-demo: Пример авторизации по системе Честный Знак с использованием расширения cades-php (КриптоПРО SDK)",
+        "url": "https://github.com/kilylabs/true-api-php-demo",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "В данном репозитории будут выкладываться примеры кода для интеграции с внезаптно свалившейся на наши (Kily Labs) головы системой Честный Знак.",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/kilylabs/true-api-php-demo",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› kilylabs  › true-api-php-demo"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/-jcSSt3UmCJcaAmTnQKlJ_SODpRjsc75z5F_ndZ9CvM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS80/ZjQ5N2VmMjhiNjNi/MjBiOWZmOTc1ZDNm/ZGFkZTQ4ZjZmYTAx/ZmJiNjc1ZmI1NmU1/YTFlODYzYmFkYmRk/M2RkL2tpbHlsYWJz/L3RydWUtYXBpLXBo/cC1kZW1v",
+          "original": "https://opengraph.githubassets.com/4f497ef28b63b20b9ff975d3fdade48f6fa01fbb675fb56e5a1e863badbdd3dd/kilylabs/true-api-php-demo",
+          "logo": false
+        },
+        "software": {
+          "name": "true-api-php-demo",
+          "author": "kilylabs",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 6,
+          "forks": 0,
+          "programmingLanguage": "PHP 100.0% | PHP 100.0%"
+        },
+        "extra_snippets": [
+          "В данном репозитории будут выкладываться примеры кода для интеграции с внезаптно свалившейся на наши (Kily Labs) головы системой Честный Знак.",
+          "Зарегистрироваться в системе Честный Знак"
+        ]
+      },
+      {
+        "title": "Как получить доступ к апи честного знака, для личного использования | Официальный сайт сообщества маркировки «Честный знак»",
+        "url": "https://markirovka.ru/community/ask-expert/kak-poluchit-dostup-k-api-chestnogo-znaka-dlya-lichnogo-ispolzovaniya",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Я нашёл только вот апи mobile.api.crpt.ru/mobile/check, но там оно заточена именно под приложение честного знака и даже срок годности не выдаётся в формате даты а просто текстом сколько осталось, что как бы нельзя просто парсить кодом, и потом нельзя это как то анализировать и следить за датой программой.",
+        "profile": {
+          "name": "Markirovka",
+          "url": "https://markirovka.ru/community/ask-expert/kak-poluchit-dostup-k-api-chestnogo-znaka-dlya-lichnogo-ispolzovaniya",
+          "long_name": "markirovka.ru",
+          "img": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "markirovka.ru",
+          "hostname": "markirovka.ru",
+          "favicon": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw",
+          "path": "› community  › ask-expert  › kak-poluchit-dostup-k-api-chestnogo-znaka-dlya-lichnogo-ispolzovaniya"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/IPJ48cI0Y8wjdrGUj8st4q1tssJg0WLldQemiu_xyiA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tYXJr/aXJvdmthLnJ1L3Vw/bG9hZC9jb3Zlci5w/bmc",
+          "original": "https://markirovka.ru/upload/cover.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Здравствуйте, можно было бы получить доступ к true Api, для получение данных о товарах, я хотел бы сделать приложение для себя, для учёта продуктов, но везде при регистрации в честном знаке нужно иметь сертификат о компании(как я понял) и нет…",
+          "Здравствуйте, можно было бы получить доступ к true Api, для получение данных о товарах, я хотел бы сделать приложение для себя, для учёта продуктов, но везде при регистрации в честном знаке нужно иметь сертификат о компании(как я понял) и нет ли какой нибудь открытой апи для получения данных о продукте, не для маркировки и оборота товаров, а просто для получения данных о товарах по qr dataMatrix и по штрих кодам, как это сделано в приложении честного знака.",
+          "Я нашёл только вот апи mobile.api.crpt.ru/mobile/check, но там оно заточена именно под приложение честного знака и даже срок годности не выдаётся в формате даты а просто текстом сколько осталось, что как бы нельзя просто парсить кодом, и потом нельзя это как то анализировать и следить за датой программой."
+        ]
+      },
+      {
+        "title": "API Честный знак как получить ключ сессии / Хабр",
+        "url": "https://habr.com/ru/articles/721622/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Привет, habr! Хочу поделиться опытом работы с API системой маркировки товаров «Честный Знак» (ЧЗ) / МДЛП (маркировка лекарственных препаратов), в части аутентификация и авторизация пользователей.",
+        "page_age": "2023-03-10T15:26:33",
+        "profile": {
+          "name": "Habr",
+          "url": "https://habr.com/ru/articles/721622/",
+          "long_name": "habr.com",
+          "img": "https://imgs.search.brave.com/U9Ky9LVSKyuSR1f51Am9A1Z_G_Uks9iCqa79Zhf1zGk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmI1ZTI1NmUy/MTc1ODVkODlkODAw/MzA1ZjcyMTlmNzVk/MzljMWU1ZmRiODlh/ZDg2NzkwNWVlOWYy/NzIyMTYwNy9oYWJy/LmNvbS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "habr.com",
+          "hostname": "habr.com",
+          "favicon": "https://imgs.search.brave.com/U9Ky9LVSKyuSR1f51Am9A1Z_G_Uks9iCqa79Zhf1zGk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmI1ZTI1NmUy/MTc1ODVkODlkODAw/MzA1ZjcyMTlmNzVk/MzljMWU1ZmRiODlh/ZDg2NzkwNWVlOWYy/NzIyMTYwNy9oYWJy/LmNvbS8",
+          "path": "› ru  › articles  › 721622"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/HDxSHVT0CE-10jTEcaMW8-NDqvkbpm5tCBCGSBvAcFU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9oYWJy/YXN0b3JhZ2Uub3Jn/L2dldHByby9oYWJy/L3VwbG9hZF9maWxl/cy8xN2QvNDU5LzM4/OS8xN2Q0NTkzODli/NmY0NzdkOWUwMjZh/OWZkMGYxOGY5OS5q/cGc",
+          "original": "https://habrastorage.org/getpro/habr/upload_files/17d/459/389/17d459389b6f477d9e026a9fd0f18f99.jpg",
+          "logo": false
+        },
+        "age": "March 10, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Артём Морозов"
+            }
+          ],
+          "date": "Mar 10, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "Habr",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/BzRGGmG6881f37VDE7AS_NhkjRzNTATxUr0bbFoFNNg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9oYWJy/YXN0b3JhZ2Uub3Jn/L3dlYnQvYV8vbGsv/OW0vYV9sazltamtj/Y2pveC16Y2NqcnBm/b2xta21xLnBuZw",
+              "original": "https://habrastorage.org/webt/a_/lk/9m/a_lk9mjkccjox-zccjrpfolmkmq.png"
+            }
+          }
+        },
+        "extra_snippets": [
+          "Привет, habr! Хочу поделиться опытом работы с API системой маркировки товаров «Честный Знак» (ЧЗ) / МДЛП (маркировка лекарственных препаратов), в части аутентификация и авторизация пользователей.",
+          "В рамках данной статьи опускается вопрос о том, что такое система «Честный знак», и каковы основы ее работы – если вы начали читать эту статью, наверняка основы вам уже известны."
+        ]
+      },
+      {
+        "title": "Документация для разработчиков технологических процессов | Официальный сайт Честный ЗНАК",
+        "url": "https://xn--80ajghhoc2aj1c8b.xn--p1ai/business/projects/developers/instructions/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Официальный сайт государственной системы маркировки и прослеживания «Честный знак»",
+        "profile": {
+          "name": "Xn--80ajghhoc2aj1c8b",
+          "url": "https://xn--80ajghhoc2aj1c8b.xn--p1ai/business/projects/developers/instructions/",
+          "long_name": "xn--80ajghhoc2aj1c8b.xn--p1ai",
+          "img": "https://imgs.search.brave.com/pDqqnmk-iVrpda24PgzpR2784-b8hbDSsvrzJApdBAA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE3NzNlYmJh/YTUyYzc1NDI5MjJi/MDJkMDQ4YjI1NDk1/MzcwMDBlNDc0Yjk5/ZjgyMmUyNjFkN2Ri/NTVjNjNjMi94bi0t/ODBhamdoaG9jMmFq/MWM4Yi54bi0tcDFh/aS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "xn--80ajghhoc2aj1c8b.xn--p1ai",
+          "hostname": "xn--80ajghhoc2aj1c8b.xn--p1ai",
+          "favicon": "https://imgs.search.brave.com/pDqqnmk-iVrpda24PgzpR2784-b8hbDSsvrzJApdBAA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE3NzNlYmJh/YTUyYzc1NDI5MjJi/MDJkMDQ4YjI1NDk1/MzcwMDBlNDc0Yjk5/ZjgyMmUyNjFkN2Ri/NTVjNjNjMi94bi0t/ODBhamdoaG9jMmFq/MWM4Yi54bi0tcDFh/aS8",
+          "path": "  › главная  › назад  › технологическим партнёрам"
+        },
+        "extra_snippets": [
+          "Регистрация в системе Честный ЗНАК – необходимое требование для всех участников оборота маркированной продукции",
+          "Официальный сайт государственной системы маркировки и прослеживания «Честный знак»"
+        ]
+      },
+      {
+        "title": "Настройка авторизации по API \"Честный знак\": проект в категории Парсинг данных, 20.09.2024 в 16:14",
+        "url": "https://www.fl.ru/projects/5357877/nastroyka-avtorizatsii-po-api-chestnyiy-znak.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Настройка авторизации по API &quot;Честный знак&quot;: проектная работа на дому в сфере Программирование / Парсинг данных с бюджетом 0 руб. Опубликован 20.09.2024 в 16:14.",
+        "page_age": "2024-09-20T00:00:00",
+        "profile": {
+          "name": "FL.ru",
+          "url": "https://www.fl.ru/projects/5357877/nastroyka-avtorizatsii-po-api-chestnyiy-znak.html",
+          "long_name": "fl.ru",
+          "img": "https://imgs.search.brave.com/-kyYBzghT4hmYBDiaxcCj18G0hWkWtSUKFlJHaLGmM0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjNlMDViNTY2/MTY0YjExODE2OTM2/NzBkMzM0NTU4OWE2/MDhmMDIyMjllMzk3/MjhkODExMTliODgx/YTM3M2JlNy93d3cu/ZmwucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "fl.ru",
+          "hostname": "www.fl.ru",
+          "favicon": "https://imgs.search.brave.com/-kyYBzghT4hmYBDiaxcCj18G0hWkWtSUKFlJHaLGmM0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjNlMDViNTY2/MTY0YjExODE2OTM2/NzBkMzM0NTU4OWE2/MDhmMDIyMjllMzk3/MjhkODExMTliODgx/YTM3M2JlNy93d3cu/ZmwucnUv",
+          "path": "› projects  › 5357877  › nastroyka-avtorizatsii-po-api-chestnyiy-znak.html"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/SjZ94D_Gdl0iowN-M_Vo0M4-8DQzvTC5ijLCiS0COPs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/ZmwucnUvaW1hZ2Vz/L2xvZ28tbmV3LTEy/MDB4NjMwLnBuZw",
+          "original": "https://www.fl.ru/images/logo-new-1200x630.png",
+          "logo": true
+        },
+        "age": "September 20, 2024"
+      },
+      {
+        "title": "API Честного ЗНАКА: как подключиться к ЭДО Лайт, ГИС МТ и Национальному каталогу",
+        "url": "https://totalcrm.ru/blog/2025/11/api-chestnogo-znaka-kak-podklyuchitsya-k-edo-lajt-gis-mt-i-nacionalnomu-katalogu_60",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Подключение к Честному ЗНАКУ через API — к ГИС МТ, ЭДО Лайт и Национальному каталогу — открывает возможности для автоматизации маркировки, ускорения документо...",
+        "profile": {
+          "name": "TotalCRM",
+          "url": "https://totalcrm.ru/blog/2025/11/api-chestnogo-znaka-kak-podklyuchitsya-k-edo-lajt-gis-mt-i-nacionalnomu-katalogu_60",
+          "long_name": "totalcrm.ru",
+          "img": "https://imgs.search.brave.com/Im-IulOQYw2s3Izq2D4NZvKPb4GypkJaxoN_9npbZ_g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzRiMGZkYzlh/NDAxNGIwYjRhMDEx/MjA0YTNmNjczOTc3/NTRjODRjZmYxZjQy/YzA5ZTlhODZkZWU1/OGE1ZjdjNC90b3Rh/bGNybS5ydS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "totalcrm.ru",
+          "hostname": "totalcrm.ru",
+          "favicon": "https://imgs.search.brave.com/Im-IulOQYw2s3Izq2D4NZvKPb4GypkJaxoN_9npbZ_g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzRiMGZkYzlh/NDAxNGIwYjRhMDEx/MjA0YTNmNjczOTc3/NTRjODRjZmYxZjQy/YzA5ZTlhODZkZWU1/OGE1ZjdjNC90b3Rh/bGNybS5ydS8",
+          "path": "  › главная  › статьи"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ViKgH37cnTQV6g8VK-dD2IrBa-7_LgJm1M5VC0rcx8s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90b3Rh/bGNybS5ydS9hc3Nl/dHMvd2ViL2NhY2hl/L3NpdGUvODMvODQv/ODM4NDIxOTA4ODE2/MTA5OGFlZGI5ZmEx/MTBhZDc1ZGUud2Vi/cA",
+          "original": "https://totalcrm.ru/assets/web/cache/site/83/84/8384219088161098aedb9fa110ad75de.webp",
+          "logo": false
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "TotalCRM",
+              "url": "https://totalcrm.ru",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/_WSy6TAizCNNbG0mw2yOLMUa7X5cD9BYBlbibz8_qq0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90b3Rh/bGNybS5ydS9yZXNv/dXJjZXMvcHVibGlj/L2ljb25zL2FuZHJv/aWQtY2hyb21lLTUx/Mng1MTIucG5n",
+                "original": "https://totalcrm.ru/resources/public/icons/android-chrome-512x512.png"
+              },
+              "email": "info@totalcrm.ru"
+            }
+          ],
+          "publisher": {
+            "type": "organization",
+            "name": "TotalCRM",
+            "url": "https://totalcrm.ru",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/_WSy6TAizCNNbG0mw2yOLMUa7X5cD9BYBlbibz8_qq0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90b3Rh/bGNybS5ydS9yZXNv/dXJjZXMvcHVibGlj/L2ljb25zL2FuZHJv/aWQtY2hyb21lLTUx/Mng1MTIucG5n",
+              "original": "https://totalcrm.ru/resources/public/icons/android-chrome-512x512.png"
+            }
+          }
+        },
+        "organization": {
+          "type": "organization",
+          "name": "Totalcrm",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "Подключение к Честному ЗНАКУ через API — к ГИС МТ, ЭДО Лайт и Национальному каталогу — открывает возможности для автоматизации маркировки, ускорения документооборота и упрощения работы с товарными данными.",
+          "API Честного ЗНАКА - это набор интерфейсов, позволяющих системам обмениваться информацией о маркировке без участия человека.",
+          "Интеграция с Честным ЗНАКОМ через API позволяет выстроить более прозрачные и быстрые процессы, ускорить обмен информацией и повысить точность работы с маркировкой.",
+          "API Честного ЗНАКА: как подключиться к ЭДО Лайт, ГИС МТ и Национальному каталогу"
+        ]
+      },
+      {
+        "title": "Работа с API в «Честном Знаке» | SelSup - центр управления торговли на маркетплейсах на базе ИИ. Управление продажами на Wildberries, Ozon, ЯндексМаркет, СберМегаМаркет, AliExpress и других",
+        "url": "https://selsup.ru/blog/rabota-s-api-v-chestnogo-znake/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Она рекомендует категории, значения параметров. Можно создавать карточки даже из 1С, а также в Честном знаке (автоматом получаем “честный штрихкод”).",
+        "page_age": "2025-05-23T23:45:52",
+        "profile": {
+          "name": "SelSup",
+          "url": "https://selsup.ru/blog/rabota-s-api-v-chestnogo-znake/",
+          "long_name": "selsup.ru",
+          "img": "https://imgs.search.brave.com/IezsruEU_CSXVak4-rPRw5FvA6cu2pri7tkMrj0dw2I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjcyNzk3YTVk/YmU1ODBmYzA3YTZh/Y2VhNzcyZDdmN2E4/ZTRlMDQxYzM4ZmMz/YzYzOGQ3Y2Q1MjVi/MTBkYzRlMC9zZWxz/dXAucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "selsup.ru",
+          "hostname": "selsup.ru",
+          "favicon": "https://imgs.search.brave.com/IezsruEU_CSXVak4-rPRw5FvA6cu2pri7tkMrj0dw2I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjcyNzk3YTVk/YmU1ODBmYzA3YTZh/Y2VhNzcyZDdmN2E4/ZTRlMDQxYzM4ZmMz/YzYzOGQ3Y2Q1MjVi/MTBkYzRlMC9zZWxz/dXAucnUv",
+          "path": "  › главная страница  › работа с api в «честном знаке»"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/UkKapqTHt4hornW18nM5_aLricBTxqZCoftZR3HJm1s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zZWxz/dXAucnUvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjUvMDUvaW1n/LWJnLTEucG5n",
+          "original": "https://selsup.ru/wp-content/uploads/2025/05/img-bg-1.png",
+          "logo": false
+        },
+        "age": "May 23, 2025",
+        "organization": {
+          "type": "organization",
+          "name": "ООО СЕЛСАП",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "Работа с API в «Честном Знаке» - SelSup Программа для управления бизнес-процессами на маркетплейсах. Аналитика, управление ценами, контроль финансов, обработка заказов по FBS и FBO: быстрая сборка, генерация штрихкодов, маркировка товаров \"Честный знак\", печать этикеток, обновление остатков и многое другое",
+          "Это мы можем увидеть по полученному ответу и массиву «signed» (см. рис 9). Также статус карточки можно увидеть в web-интерфейсе системы маркировки «Честный знак»",
+          "Она рекомендует категории, значения параметров. Можно создавать карточки даже из 1С, а также в Честном знаке (автоматом получаем “честный штрихкод”).",
+          "SelSup — официальный партнер маркетплейсов и системы «Честный знак». Программа получает быстрые обновления при изменении условий работы селлеров с площадками, что гарантирует отсутствие скрытых расходов для продавцов."
+        ]
+      },
+      {
+        "title": "Маркировка воды — инструкции, документация, API | Официальный сайт Честный ЗНАК",
+        "url": "https://xn--80ajghhoc2aj1c8b.xn--p1ai/business/projects/water/instructions/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Регистрация в системе Честный знак — необходимое требование для всех участников оборота маркированной продукции",
+        "profile": {
+          "name": "Xn--80ajghhoc2aj1c8b",
+          "url": "https://xn--80ajghhoc2aj1c8b.xn--p1ai/business/projects/water/instructions/",
+          "long_name": "xn--80ajghhoc2aj1c8b.xn--p1ai",
+          "img": "https://imgs.search.brave.com/pDqqnmk-iVrpda24PgzpR2784-b8hbDSsvrzJApdBAA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE3NzNlYmJh/YTUyYzc1NDI5MjJi/MDJkMDQ4YjI1NDk1/MzcwMDBlNDc0Yjk5/ZjgyMmUyNjFkN2Ri/NTVjNjNjMi94bi0t/ODBhamdoaG9jMmFq/MWM4Yi54bi0tcDFh/aS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "xn--80ajghhoc2aj1c8b.xn--p1ai",
+          "hostname": "xn--80ajghhoc2aj1c8b.xn--p1ai",
+          "favicon": "https://imgs.search.brave.com/pDqqnmk-iVrpda24PgzpR2784-b8hbDSsvrzJApdBAA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE3NzNlYmJh/YTUyYzc1NDI5MjJi/MDJkMDQ4YjI1NDk1/MzcwMDBlNDc0Yjk5/ZjgyMmUyNjFkN2Ri/NTVjNjNjMi94bi0t/ODBhamdoaG9jMmFq/MWM4Yi54bi0tcDFh/aS8",
+          "path": "  › главная"
+        },
+        "extra_snippets": [
+          "Регистрация в системе Честный знак — необходимое требование для всех участников оборота маркированной продукции",
+          "Официальный сайт государственной системы маркировки и прослеживания «Честный знак»",
+          "Руководство пользователя мобильного приложения «Честный ЗНАК.Бизнес»"
+        ]
+      },
+      {
+        "title": "Как работать с API Честного Знака ? - Страница 9 : Маркировка",
+        "url": "https://olegon.ru/showthread.php?t=38701&page=9",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Как работать с API Честного Знака ?-Маркировка-страница 9",
+        "profile": {
+          "name": "Проверка на ботов",
+          "url": "https://olegon.ru/showthread.php?t=38701&page=9",
+          "long_name": "olegon.ru",
+          "img": "https://imgs.search.brave.com/5Nbz8bSGgIGKr0l9eGFG-k8qIPHsCPuwbGBEEr0_3kE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDc5YzE1NzZj/YWNmODEyNDE3MTFj/NjEyYTI4Zjg0MmQz/NWQ3OWZjZWNkYTQx/MzkwZTU4NTNmZWFk/NjczMGZmZC9vbGVn/b24ucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "olegon.ru",
+          "hostname": "olegon.ru",
+          "favicon": "https://imgs.search.brave.com/5Nbz8bSGgIGKr0l9eGFG-k8qIPHsCPuwbGBEEr0_3kE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDc5YzE1NzZj/YWNmODEyNDE3MTFj/NjEyYTI4Zjg0MmQz/NWQ3OWZjZWNkYTQx/MzkwZTU4NTNmZWFk/NjczMGZmZC9vbGVn/b24ucnUv",
+          "path": "  › программы и оборудование для автоматизации торговли  › маркировка"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/i_eIo7jcox0pZtV9nqhVC8ygw_peikDqnDfSpQrfXnA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vbGVn/b24ucnUvYXBwbGUt/dG91Y2gtaWNvbi0x/NTJ4MTUyLnBuZw",
+          "original": "https://olegon.ru/apple-touch-icon-152x152.png",
+          "logo": true
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Andrew556"
+            }
+          ],
+          "date": "Feb 23, 2025"
+        },
+        "organization": {
+          "type": "organization",
+          "name": "Olegon",
+          "contact_points": []
+        }
+      }
+    ],
+    "family_friendly": true
+  }
+}

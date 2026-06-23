@@ -1,0 +1,821 @@
+{
+  "type": "search",
+  "query": {
+    "original": "reverse engineering честный знак app API mobile.api.crpt.ru habr",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "API Честный знак как получить ключ сессии / Хабр",
+        "url": "https://habr.com/ru/articles/721622/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Привет, habr! Хочу поделиться опытом работы с API системой маркировки товаров «Честный Знак» (ЧЗ) / МДЛП (маркировка лекарственных препаратов), в части аутентификация ...",
+        "page_age": "2023-03-10T15:26:33",
+        "profile": {
+          "name": "Habr",
+          "url": "https://habr.com/ru/articles/721622/",
+          "long_name": "habr.com",
+          "img": "https://imgs.search.brave.com/U9Ky9LVSKyuSR1f51Am9A1Z_G_Uks9iCqa79Zhf1zGk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmI1ZTI1NmUy/MTc1ODVkODlkODAw/MzA1ZjcyMTlmNzVk/MzljMWU1ZmRiODlh/ZDg2NzkwNWVlOWYy/NzIyMTYwNy9oYWJy/LmNvbS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "habr.com",
+          "hostname": "habr.com",
+          "favicon": "https://imgs.search.brave.com/U9Ky9LVSKyuSR1f51Am9A1Z_G_Uks9iCqa79Zhf1zGk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmI1ZTI1NmUy/MTc1ODVkODlkODAw/MzA1ZjcyMTlmNzVk/MzljMWU1ZmRiODlh/ZDg2NzkwNWVlOWYy/NzIyMTYwNy9oYWJy/LmNvbS8",
+          "path": "› ru  › articles  › 721622"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/HDxSHVT0CE-10jTEcaMW8-NDqvkbpm5tCBCGSBvAcFU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9oYWJy/YXN0b3JhZ2Uub3Jn/L2dldHByby9oYWJy/L3VwbG9hZF9maWxl/cy8xN2QvNDU5LzM4/OS8xN2Q0NTkzODli/NmY0NzdkOWUwMjZh/OWZkMGYxOGY5OS5q/cGc",
+          "original": "https://habrastorage.org/getpro/habr/upload_files/17d/459/389/17d459389b6f477d9e026a9fd0f18f99.jpg",
+          "logo": false
+        },
+        "age": "March 10, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Артём Морозов"
+            }
+          ],
+          "date": "Mar 10, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "Habr",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/BzRGGmG6881f37VDE7AS_NhkjRzNTATxUr0bbFoFNNg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9oYWJy/YXN0b3JhZ2Uub3Jn/L3dlYnQvYV8vbGsv/OW0vYV9sazltamtj/Y2pveC16Y2NqcnBm/b2xta21xLnBuZw",
+              "original": "https://habrastorage.org/webt/a_/lk/9m/a_lk9mjkccjox-zccjrpfolmkmq.png"
+            }
+          }
+        },
+        "extra_snippets": [
+          "Привет, habr! Хочу поделиться опытом работы с API системой маркировки товаров «Честный Знак» (ЧЗ) / МДЛП (маркировка лекарственных препаратов), в части аутентификация и авторизация пользователей.",
+          "В рамках данной статьи опускается вопрос о том, что такое система «Честный знак», и каковы основы ее работы – если вы начали читать эту статью, наверняка основы вам уже известны. ... КРИПТОГРАФИЧЕСКОЕ ПО - в нашем случае - КриптоПро. Включает в себя следующие элементы: КриптоПро CSP 5.0 ссылка https://cryptopro.ru/products/csp",
+          "плагин КриптоПро ЭЦП Browser plug-in ссылка https://www.cryptopro.ru/products/cades/plugin · расширение для браузера CryptoPro Extension for CAdES Browser Plug-in · Чтобы проверить, все ли стоит на нашем компе ЧЗ предоставляет небольшую страничку для проверки https://markirovka.crpt.ru/plugins/cryptopro",
+          "На текущий момент в документации (https://mdlp.crpt.ru/static/document/api_mdlp_ru.pdf) к API сказано, что для авторизации вам необходимо client_id, client_secret, user_id, первые два мы как раз таки смотрим в ЛК в разделе Администрирование – Учетные Системы:"
+        ]
+      },
+      {
+        "title": "Как получить доступ к апи честного знака, для личного использования | Официальный сайт сообщества маркировки «Честный знак»",
+        "url": "https://markirovka.ru/community/ask-expert/kak-poluchit-dostup-k-api-chestnogo-znaka-dlya-lichnogo-ispolzovaniya",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "как через АПИ узнать данные со странички 1 https://markirovka.crpt.ru/profile 2 https://markirovka.crpt.ru/profile/users/confidants нужно точный документ и его пункт.",
+        "profile": {
+          "name": "Markirovka",
+          "url": "https://markirovka.ru/community/ask-expert/kak-poluchit-dostup-k-api-chestnogo-znaka-dlya-lichnogo-ispolzovaniya",
+          "long_name": "markirovka.ru",
+          "img": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "markirovka.ru",
+          "hostname": "markirovka.ru",
+          "favicon": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw",
+          "path": "› community  › ask-expert  › kak-poluchit-dostup-k-api-chestnogo-znaka-dlya-lichnogo-ispolzovaniya"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/IPJ48cI0Y8wjdrGUj8st4q1tssJg0WLldQemiu_xyiA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tYXJr/aXJvdmthLnJ1L3Vw/bG9hZC9jb3Zlci5w/bmc",
+          "original": "https://markirovka.ru/upload/cover.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Здравствуйте, можно было бы получить доступ к true Api, для получение данных о товарах, я хотел бы сделать приложение для себя, для учёта продуктов, но везде при регистрации в честном знаке нужно иметь сертификат о компании(как я понял) и нет…",
+          "Здравствуйте, можно было бы получить доступ к true Api, для получение данных о товарах, я хотел бы сделать приложение для себя, для учёта продуктов, но везде при регистрации в честном знаке нужно иметь сертификат о компании(как я понял) и нет ли какой нибудь открытой апи для получения данных о продукте, не для маркировки и оборота то",
+          "как через АПИ узнать данные со странички 1 https://markirovka.crpt.ru/profile 2 https://markirovka.crpt.ru/profile/users/confidants нужно точный документ и его пункт."
+        ]
+      },
+      {
+        "title": "GitHub - vladdevops/crpt-api: https://честныйзнак.рф API · GitHub",
+        "url": "https://github.com/vladdevops/crpt-api",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Реализация API, на основе True API версии 17.2 от 19.03.2021, для работы с сайтом честныйзнак.рф ... &lt;?php use CrptApi\\IsmpTrueApi; $test = true; $ismpApi = new IsmpTrueApi($test); try { $authData = $ismpApi-&gt;getAuthData(); $uuid = $authData-&gt;getUuid(); $data = $authData-&gt;getData(); } catch (\\Exception $e) { $message = $e-&gt;getMessage(); }",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/vladdevops/crpt-api",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› vladdevops  › crpt-api"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/TRoIcFcT810Q_vwnq1DKkf8TCx1emHqb_G8_hRo4ync/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS83/NzE3ZTExMmQ2MWEz/MTQyZWNhMTlkYWQ2/NDg5OWE2NGNjM2Q3/YjBmNjU0NTg0YmQ2/YjNjZjIwZjBiMzUy/ZDljL3ZsYWRkZXZv/cHMvY3JwdC1hcGk",
+          "original": "https://opengraph.githubassets.com/7717e112d61a3142eca19dad64899a64cc3d7b0f654584bd6b3cf20f0b352d9c/vladdevops/crpt-api",
+          "logo": false
+        },
+        "software": {
+          "name": "crpt-api",
+          "author": "vladdevops",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 2,
+          "forks": 0,
+          "programmingLanguage": "PHP"
+        },
+        "extra_snippets": [
+          "Реализация API, на основе True API версии 17.2 от 19.03.2021, для работы с сайтом честныйзнак.рф ... <?php use CrptApi\\IsmpTrueApi; $test = true; $ismpApi = new IsmpTrueApi($test); try { $authData = $ismpApi->getAuthData(); $uuid = $authData->getUuid(); $data = $authData->getData(); } catch (\\Exception $e) { $message = $e->getMessage(); }"
+        ]
+      },
+      {
+        "title": "Примеры работы с API в Честный знак (обувь)",
+        "url": "https://infostart.ru/public/1236219/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Начнем с того что нам нужно получить токен для работы с API честного знака. Для этого нам нужно сделать GET запрос в ответ на который мы получим поля GUID(Уникальный идентификатор) и DATA(Данные). GET Запрос из 1с выглядит следующим образом: сайт = &quot;ismp.crpt.ru&quot;; хСоединение = Новый HTTPСоединение(Сайт,443,,,,,Новый ЗащищенноеСоединениеOpenSSL); Запрос = новый HTTPЗапрос(&quot;/api/v3/auth/cert/key&quot;); хОтвет = хСоединение.ВызватьHTTPМетод(&quot;GET&quot;,Запрос); Если хОтвет.КодСостояния &lt;&gt; 200 Тогда Сообщить(&quot;Ошибка.",
+        "page_age": "2020-05-15T00:00:00",
+        "profile": {
+          "name": "Инфостарт",
+          "url": "https://infostart.ru/public/1236219/",
+          "long_name": "infostart.ru",
+          "img": "https://imgs.search.brave.com/risZ6GoSr9tqzk81rvK2pCrln14FQjeWdBygyBRJNX8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzdiOWY0NzVj/MzlkZGJmNTJmODM2/YWZiNTg0ZjZhNjMz/ZjUxOGE4N2I3M2Vm/Njk2YjZhZDc4MzFl/MzgzZGE4Mi9pbmZv/c3RhcnQucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "infostart.ru",
+          "hostname": "infostart.ru",
+          "favicon": "https://imgs.search.brave.com/risZ6GoSr9tqzk81rvK2pCrln14FQjeWdBygyBRJNX8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzdiOWY0NzVj/MzlkZGJmNTJmODM2/YWZiNTg0ZjZhNjMz/ZjUxOGE4N2I3M2Vm/Njk2YjZhZDc4MzFl/MzgzZGE4Mi9pbmZv/c3RhcnQucnUv",
+          "path": "› public  › 1236219"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/M01ym_XxfOAeLAjdw2j3amAfRaV4PCgID8yzIceI3Vw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbmZv/c3RhcnQucnUvdXBs/b2FkL2ltZy9sb2dv/MzAweDMwMC5qcGc",
+          "original": "https://infostart.ru/upload/img/logo300x300.jpg",
+          "logo": true
+        },
+        "age": "May 15, 2020",
+        "article": {
+          "author": []
+        },
+        "extra_snippets": [
+          "К сожалению, документация API честного знака полна пробелов и неточностей. В данной статье описан мой опыт отгрузки маркированных товаров с одного юр. лица на другое.",
+          "(10) А если ИДДок получен и код ответа -201, то есть успешно создан документ, где его можно найти в честном знаке? в документах ничего нет, пока тренируюсь на тестовом сервере, то есть demo.lp.crpt.tech",
+          "Для начала вы должны быть зарегистрированы в Честном знаке(https://shoes.crpt.ru/) и иметь сертификат для входа.",
+          "Начнем с того что нам нужно получить токен для работы с API честного знака. Для этого нам нужно сделать GET запрос в ответ на который мы получим поля GUID(Уникальный идентификатор) и DATA(Данные). GET Запрос из 1с выглядит следующим образом: сайт = \"ismp.crpt.ru\"; хСоединение = Новый HTTPСоединение(Сайт,443,,,,,Новый ЗащищенноеСоединениеOpenSSL); Запрос = новый HTTPЗапрос(\"/api/v3/auth/cert/key\"); хОтвет = хСоединение.ВызватьHTTPМетод(\"GET\",Запрос); Если хОтвет.КодСостояния <> 200 Тогда Сообщить(\"Ошибка."
+        ]
+      },
+      {
+        "title": "Reverse engineering: обратная разработка приложений для самых маленьких / Хабр",
+        "url": "https://habr.com/ru/companies/pentestit/articles/555590/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Обратная разработка (англ. Reverse Engineering) - метод исследования устройств или программного обеспечения с целью понять принцип его работы или обнаружить недокумен...",
+        "page_age": "2021-05-05T14:38:58",
+        "profile": {
+          "name": "Habr",
+          "url": "https://habr.com/ru/companies/pentestit/articles/555590/",
+          "long_name": "habr.com",
+          "img": "https://imgs.search.brave.com/U9Ky9LVSKyuSR1f51Am9A1Z_G_Uks9iCqa79Zhf1zGk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmI1ZTI1NmUy/MTc1ODVkODlkODAw/MzA1ZjcyMTlmNzVk/MzljMWU1ZmRiODlh/ZDg2NzkwNWVlOWYy/NzIyMTYwNy9oYWJy/LmNvbS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "habr.com",
+          "hostname": "habr.com",
+          "favicon": "https://imgs.search.brave.com/U9Ky9LVSKyuSR1f51Am9A1Z_G_Uks9iCqa79Zhf1zGk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmI1ZTI1NmUy/MTc1ODVkODlkODAw/MzA1ZjcyMTlmNzVk/MzljMWU1ZmRiODlh/ZDg2NzkwNWVlOWYy/NzIyMTYwNy9oYWJy/LmNvbS8",
+          "path": "› ru  › companies  › pentestit  › articles  › 555590"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/eM3WwR7eXPikjCikTn7MGBWlUW0elSHKjmERn-QSHkM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9oYWJy/LmNvbS9zaGFyZS9w/dWJsaWNhdGlvbi81/NTU1OTAvMDIxN2My/ZDQyMTFhYmU1N2Nk/Yzg4MGEzZmM2ZWI2/NTEv",
+          "original": "https://habr.com/share/publication/555590/0217c2d4211abe57cdc880a3fc6eb651/",
+          "logo": false
+        },
+        "age": "May 5, 2021",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Pentestit"
+            }
+          ],
+          "date": "May 05, 2021",
+          "publisher": {
+            "type": "organization",
+            "name": "Habr",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/BzRGGmG6881f37VDE7AS_NhkjRzNTATxUr0bbFoFNNg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9oYWJy/YXN0b3JhZ2Uub3Jn/L3dlYnQvYV8vbGsv/OW0vYV9sazltamtj/Y2pveC16Y2NqcnBm/b2xta21xLnBuZw",
+              "original": "https://habrastorage.org/webt/a_/lk/9m/a_lk9mjkccjox-zccjrpfolmkmq.png"
+            }
+          }
+        },
+        "extra_snippets": [
+          "Обратная разработка (англ. Reverse Engineering) - метод исследования устройств или программного обеспечения с целью понять принцип его работы или обнаружить недокументированные возможности."
+        ]
+      },
+      {
+        "title": "Документация для разработчиков технологических процессов | Официальный сайт Честный ЗНАК",
+        "url": "https://xn--80ajghhoc2aj1c8b.xn--p1ai/business/projects/developers/instructions/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Официальный сайт государственной системы маркировки и прослеживания «Честный знак»",
+        "profile": {
+          "name": "Xn--80ajghhoc2aj1c8b",
+          "url": "https://xn--80ajghhoc2aj1c8b.xn--p1ai/business/projects/developers/instructions/",
+          "long_name": "xn--80ajghhoc2aj1c8b.xn--p1ai",
+          "img": "https://imgs.search.brave.com/pDqqnmk-iVrpda24PgzpR2784-b8hbDSsvrzJApdBAA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE3NzNlYmJh/YTUyYzc1NDI5MjJi/MDJkMDQ4YjI1NDk1/MzcwMDBlNDc0Yjk5/ZjgyMmUyNjFkN2Ri/NTVjNjNjMi94bi0t/ODBhamdoaG9jMmFq/MWM4Yi54bi0tcDFh/aS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "xn--80ajghhoc2aj1c8b.xn--p1ai",
+          "hostname": "xn--80ajghhoc2aj1c8b.xn--p1ai",
+          "favicon": "https://imgs.search.brave.com/pDqqnmk-iVrpda24PgzpR2784-b8hbDSsvrzJApdBAA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE3NzNlYmJh/YTUyYzc1NDI5MjJi/MDJkMDQ4YjI1NDk1/MzcwMDBlNDc0Yjk5/ZjgyMmUyNjFkN2Ri/NTVjNjNjMi94bi0t/ODBhamdoaG9jMmFq/MWM4Yi54bi0tcDFh/aS8",
+          "path": "  › главная  › назад  › технологическим партнёрам"
+        },
+        "extra_snippets": [
+          "Регистрация в системе Честный ЗНАК – необходимое требование для всех участников оборота маркированной продукции",
+          "Официальный сайт государственной системы маркировки и прослеживания «Честный знак»"
+        ]
+      },
+      {
+        "title": "Запрос кодов маркировки товаров через API Честный знак (Система маркировки товаров) по заданным фильтрам и списание",
+        "url": "https://infostart.ru/1c/tools/1923573/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Используется POST метод API Честного знака /cises/search из документации &quot;Описание True API&quot; (Версия 331.0), актуальной на август 2023 г. Этот метод не ...",
+        "profile": {
+          "name": "Инфостарт",
+          "url": "https://infostart.ru/1c/tools/1923573/",
+          "long_name": "infostart.ru",
+          "img": "https://imgs.search.brave.com/risZ6GoSr9tqzk81rvK2pCrln14FQjeWdBygyBRJNX8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzdiOWY0NzVj/MzlkZGJmNTJmODM2/YWZiNTg0ZjZhNjMz/ZjUxOGE4N2I3M2Vm/Njk2YjZhZDc4MzFl/MzgzZGE4Mi9pbmZv/c3RhcnQucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "infostart.ru",
+          "hostname": "infostart.ru",
+          "favicon": "https://imgs.search.brave.com/risZ6GoSr9tqzk81rvK2pCrln14FQjeWdBygyBRJNX8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzdiOWY0NzVj/MzlkZGJmNTJmODM2/YWZiNTg0ZjZhNjMz/ZjUxOGE4N2I3M2Vm/Njk2YjZhZDc4MzFl/MzgzZGE4Mi9pbmZv/c3RhcnQucnUv",
+          "path": "› 1c  › tools  › 1923573"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/M01ym_XxfOAeLAjdw2j3amAfRaV4PCgID8yzIceI3Vw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbmZv/c3RhcnQucnUvdXBs/b2FkL2ltZy9sb2dv/MzAweDMwMC5qcGc",
+          "original": "https://infostart.ru/upload/img/logo300x300.jpg",
+          "logo": true
+        },
+        "article": {
+          "author": []
+        },
+        "extra_snippets": [
+          "Запрос кодов маркировки группы товаров за период. Используется POST метод API Честного знака /cises/search из документации \"Описание True API\" (Версия 331.0), актуальной на август 2023 г. Этот метод не планируется снимать с поддержки, поэтому он и был выбран за основу.",
+          "Подскажите, новенький совсем , не могу понять , честный знак не дает ответов.",
+          "За основу взята публикация //infostart.ru/public/1276725/. В ней рассмотрен пример обмена через API с Честным знаком с использованием электронной подписи.",
+          "В данной публикации сделан запрос кодов маркировки группы товаров \"Табачная продукция\" по периоду выпуска кодов (эмиссии). Информация по дате эмиссии отображена в личном кабинете честного знака в разделе \"Коды маркировки\"."
+        ]
+      },
+      {
+        "title": "Есть ли какое-то rest api для получения информации о товаре? | Официальный сайт сообщества маркировки «Честный знак»",
+        "url": "https://markirovka.ru/community/developers/est-li-kakoe-to-rest-api-dlya-polucheniya-informatsii-o-tovare--90",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Не совсем ясен ответ: «В данном случае информацию по кодам маркировки из РБ рекомендуем проверять в Электронном Знаке». Т.е. ситуацию, когда «Честный Знак» не дает данные по таким маркировкам мы считаем нормой, и можно в ЧС даже не пытаться проверять?",
+        "profile": {
+          "name": "Markirovka",
+          "url": "https://markirovka.ru/community/developers/est-li-kakoe-to-rest-api-dlya-polucheniya-informatsii-o-tovare--90",
+          "long_name": "markirovka.ru",
+          "img": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "markirovka.ru",
+          "hostname": "markirovka.ru",
+          "favicon": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw",
+          "path": "› community  › developers  › est-li-kakoe-to-rest-api-dlya-polucheniya-informatsii-o-tovare--90"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/IPJ48cI0Y8wjdrGUj8st4q1tssJg0WLldQemiu_xyiA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tYXJr/aXJvdmthLnJ1L3Vw/bG9hZC9jb3Zlci5w/bmc",
+          "original": "https://markirovka.ru/upload/cover.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Подскажите, пожалуйста, есть rest api для получения информации о сроке годности продукта по qr коду? Хочу сделать приложение, которое сканирует товар и говорит пользователю о его сроке…",
+          "Не совсем ясен ответ: «В данном случае информацию по кодам маркировки из РБ рекомендуем проверять в Электронном Знаке». Т.е. ситуацию, когда «Честный Знак» не дает данные по таким маркировкам мы считаем нормой, и можно в ЧС даже не пытаться проверять?",
+          "Сообщество Маркировки, дайте пожалуйста точную ссылку на описание всех методов апи честного знака.",
+          "Есть ли у апи Честный знак классический свагер как у других апи?"
+        ]
+      },
+      {
+        "title": "GitHub - yallie/MdlpClient: Честный знак. ИС «Маркировка». MDLP REST API Client",
+        "url": "https://github.com/yallie/MdlpClient",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "// Authenticate -&gt; POST http://api.stage.mdlp.crpt.ru/api/v1/auth headers: { X-ApiMethodName = Authenticate Accept = application/json, text/json, text/x-json, text/javascript, application/xml, text/xml Content-type = application/json } body: { &quot;client_id&quot;: &quot;01db16f2-9a4e-4d9f-b5e8-c68f12566fd5&quot;, &quot;client_secret&quot;: &quot;9199fe04-42c3-4e81-83b5-120eb5f129f2&quot;, &quot;user_id&quot;: &quot;starter_resident_1&quot;, &quot;auth_type&quot;: &quot;PASSWORD&quot; } &lt;- OK 200 (OK) http://api.stage.mdlp.crpt.ru/api/v1/auth timings: { started: 2020-04-22 20:22:12 elapsed: 00:00:00.1971392 } headers: { Connection = keep-alive X-XSS-Protection = 1; mode=",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/yallie/MdlpClient",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› yallie  › MdlpClient"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Uo9mjaksRu-OEKdNgsIJOXrztEbCkT6RQ4PwDgkd00M/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXBv/c2l0b3J5LWltYWdl/cy5naXRodWJ1c2Vy/Y29udGVudC5jb20v/MjU0NDc1MzUzLzM4/NDZkZjAwLTg0NDUt/MTFlYS04ZjlkLThm/YzEwOWQwZmFhYg",
+          "original": "https://repository-images.githubusercontent.com/254475353/3846df00-8445-11ea-8f9d-8fc109d0faab",
+          "logo": false
+        },
+        "software": {
+          "name": "MdlpClient",
+          "author": "yallie",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 24,
+          "forks": 12,
+          "programmingLanguage": "C#"
+        },
+        "extra_snippets": [
+          "// Authenticate -> POST http://api.stage.mdlp.crpt.ru/api/v1/auth headers: { X-ApiMethodName = Authenticate Accept = application/json, text/json, text/x-json, text/javascript, application/xml, text/xml Content-type = application/json } body: { \"client_id\": \"01db16f2-9a4e-4d9f-b5e8-c68f12566fd5\", \"client_secret\": \"9199fe04-42c3-4e81-83b5-120eb5f129f2\", \"user_id\": \"starter_resident_1\", \"auth_type\": \"PASSWORD\" } <- OK 200 (OK) http://api.stage.mdlp.crpt.ru/api/v1/auth timings: { started: 2020-04-22 20:22:12 elapsed: 00:00:00.1971392 } headers: { Connection = keep-alive X-XSS-Protection = 1; mode=",
+          "Запросить в техподдержке «Честного знака» доступ к тестовому стенду API: http://api.stage.mdlp.crpt.ru"
+        ]
+      },
+      {
+        "title": "Настройка авторизации по API \"Честный знак\": проект в категории Парсинг данных, 20.09.2024 в 16:14",
+        "url": "https://www.fl.ru/projects/5357877/nastroyka-avtorizatsii-po-api-chestnyiy-znak.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Настройка авторизации по API &quot;Честный знак&quot;: проектная работа на дому в сфере Программирование / Парсинг данных с бюджетом 0 руб. Опубликован 20.09.2024 в 16:14.",
+        "page_age": "2024-09-20T00:00:00",
+        "profile": {
+          "name": "FL.ru",
+          "url": "https://www.fl.ru/projects/5357877/nastroyka-avtorizatsii-po-api-chestnyiy-znak.html",
+          "long_name": "fl.ru",
+          "img": "https://imgs.search.brave.com/-kyYBzghT4hmYBDiaxcCj18G0hWkWtSUKFlJHaLGmM0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjNlMDViNTY2/MTY0YjExODE2OTM2/NzBkMzM0NTU4OWE2/MDhmMDIyMjllMzk3/MjhkODExMTliODgx/YTM3M2JlNy93d3cu/ZmwucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "fl.ru",
+          "hostname": "www.fl.ru",
+          "favicon": "https://imgs.search.brave.com/-kyYBzghT4hmYBDiaxcCj18G0hWkWtSUKFlJHaLGmM0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjNlMDViNTY2/MTY0YjExODE2OTM2/NzBkMzM0NTU4OWE2/MDhmMDIyMjllMzk3/MjhkODExMTliODgx/YTM3M2JlNy93d3cu/ZmwucnUv",
+          "path": "› projects  › 5357877  › nastroyka-avtorizatsii-po-api-chestnyiy-znak.html"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/SjZ94D_Gdl0iowN-M_Vo0M4-8DQzvTC5ijLCiS0COPs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/ZmwucnUvaW1hZ2Vz/L2xvZ28tbmV3LTEy/MDB4NjMwLnBuZw",
+          "original": "https://www.fl.ru/images/logo-new-1200x630.png",
+          "logo": true
+        },
+        "age": "September 20, 2024",
+        "extra_snippets": [
+          "mobile.api.crpt.ru/v2/mob..."
+        ]
+      },
+      {
+        "title": "Описание True API",
+        "url": "https://docs.crpt.ru/gismt/True_API/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "В описание выгрузок «Получение сведений по начислениям за коды маркировки», «Получение сведений по эмиссии и нанесению кодов маркировки», «Получение сведений ...",
+        "profile": {
+          "name": "Crpt",
+          "url": "https://docs.crpt.ru/gismt/True_API/",
+          "long_name": "docs.crpt.ru",
+          "img": "https://imgs.search.brave.com/QUXZ7x8OdZyvrJ6oqtkWJGoWZ4lx4BpYjNZXVEc4vjs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjJjYWI0NTM2/Zjg0ZWQ1OGZhZDJk/MzA0MTAxNjllODc0/YWI3OWY1Y2ZjZTE0/ODgwMmZlMjM1NTE2/OTQ4ODY5MS9kb2Nz/LmNycHQucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "docs.crpt.ru",
+          "hostname": "docs.crpt.ru",
+          "favicon": "https://imgs.search.brave.com/QUXZ7x8OdZyvrJ6oqtkWJGoWZ4lx4BpYjNZXVEc4vjs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjJjYWI0NTM2/Zjg0ZWQ1OGZhZDJk/MzA0MTAxNjllODc0/YWI3OWY1Y2ZjZTE0/ODgwMmZlMjM1NTE2/OTQ4ODY5MS9kb2Nz/LmNycHQucnUv",
+          "path": "› gismt  › True_API"
+        },
+        "extra_snippets": [
+          "8.3.13. Получение сведений по товарам и их владельцам, которые используют зарегистрированные товарные знаки",
+          "8.7.14. Метод получения CSV по товарам и их владельцам, которые используют зарегистрированные товарные знаки"
+        ]
+      },
+      {
+        "title": "Планируемые изменения в True API",
+        "url": "https://docs.crpt.ru/gismt/Exchange/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Потребитель обнаруживает признак нарушения — например, брак, просрочку или ошибку в маркировке — и отправляет обращение в мобильном приложении «Честный ЗНАК».",
+        "profile": {
+          "name": "Crpt",
+          "url": "https://docs.crpt.ru/gismt/Exchange/",
+          "long_name": "docs.crpt.ru",
+          "img": "https://imgs.search.brave.com/QUXZ7x8OdZyvrJ6oqtkWJGoWZ4lx4BpYjNZXVEc4vjs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjJjYWI0NTM2/Zjg0ZWQ1OGZhZDJk/MzA0MTAxNjllODc0/YWI3OWY1Y2ZjZTE0/ODgwMmZlMjM1NTE2/OTQ4ODY5MS9kb2Nz/LmNycHQucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "docs.crpt.ru",
+          "hostname": "docs.crpt.ru",
+          "favicon": "https://imgs.search.brave.com/QUXZ7x8OdZyvrJ6oqtkWJGoWZ4lx4BpYjNZXVEc4vjs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjJjYWI0NTM2/Zjg0ZWQ1OGZhZDJk/MzA0MTAxNjllODc0/YWI3OWY1Y2ZjZTE0/ODgwMmZlMjM1NTE2/OTQ4ODY5MS9kb2Nz/LmNycHQucnUv",
+          "path": "› gismt  › Exchange"
+        },
+        "extra_snippets": [
+          "В ближайшее время вы сможете напрямую работать с обращениями потребителей, поступающими через мобильное приложение «Честный ЗНАК», а именно:",
+          "Потребитель обнаруживает признак нарушения — например, брак, просрочку или ошибку в маркировке — и отправляет обращение в мобильном приложении «Честный ЗНАК».",
+          "Метод предназначен для получения списка обращений потребителей, поступающими через мобильное приложение «Честный ЗНАК»."
+        ]
+      },
+      {
+        "title": "Ленивый Reverse Engineering — Часть 2 / Хабр",
+        "url": "https://habr.com/ru/company/otus/blog/660995/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Статья расскажет о практическом аспекте при использовании инструментария, который позволяет производить исследование программного обеспечения с минимальным порогом вхождения и максимальной...",
+        "page_age": "2023-07-14T08:30:54",
+        "profile": {
+          "name": "Habr",
+          "url": "https://habr.com/ru/company/otus/blog/660995/",
+          "long_name": "habr.com",
+          "img": "https://imgs.search.brave.com/U9Ky9LVSKyuSR1f51Am9A1Z_G_Uks9iCqa79Zhf1zGk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmI1ZTI1NmUy/MTc1ODVkODlkODAw/MzA1ZjcyMTlmNzVk/MzljMWU1ZmRiODlh/ZDg2NzkwNWVlOWYy/NzIyMTYwNy9oYWJy/LmNvbS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "habr.com",
+          "hostname": "habr.com",
+          "favicon": "https://imgs.search.brave.com/U9Ky9LVSKyuSR1f51Am9A1Z_G_Uks9iCqa79Zhf1zGk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmI1ZTI1NmUy/MTc1ODVkODlkODAw/MzA1ZjcyMTlmNzVk/MzljMWU1ZmRiODlh/ZDg2NzkwNWVlOWYy/NzIyMTYwNy9oYWJy/LmNvbS8",
+          "path": "› ru  › company  › otus  › blog  › 660995"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/DpVFSi_LJWUhywR9w4PEri6Pi41lz8VxQdwDleij23s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9oYWJy/LmNvbS9zaGFyZS9w/dWJsaWNhdGlvbi82/NjA5OTUvZWIyZWM4/NTI3NzM4MTcwZGI0/YTkwZGY4ZmUzYzA4/ZTcv",
+          "original": "https://habr.com/share/publication/660995/eb2ec8527738170db4a90df8fe3c08e7/",
+          "logo": false
+        },
+        "age": "July 14, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Ксения Мосеенкова"
+            }
+          ],
+          "date": "Apr 14, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "Habr",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/BzRGGmG6881f37VDE7AS_NhkjRzNTATxUr0bbFoFNNg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9oYWJy/YXN0b3JhZ2Uub3Jn/L3dlYnQvYV8vbGsv/OW0vYV9sazltamtj/Y2pveC16Y2NqcnBm/b2xta21xLnBuZw",
+              "original": "https://habrastorage.org/webt/a_/lk/9m/a_lk9mjkccjox-zccjrpfolmkmq.png"
+            }
+          }
+        },
+        "extra_snippets": [
+          "Статья расскажет о практическом аспекте при использовании инструментария, который позволяет производить исследование программного обеспечения с минимальным порогом вхождения и максимальной..."
+        ]
+      },
+      {
+        "title": "Static Reverse engineering для web / Хабр",
+        "url": "https://habr.com/ru/companies/otus/articles/658453/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Львиная доля всех статей, которые посвящены вопросу обратной разработки посвящены темам анализа низкоуровневого представления приложений и работы прошивок ...",
+        "page_age": "2022-03-31T14:43:45",
+        "profile": {
+          "name": "Habr",
+          "url": "https://habr.com/ru/companies/otus/articles/658453/",
+          "long_name": "habr.com",
+          "img": "https://imgs.search.brave.com/U9Ky9LVSKyuSR1f51Am9A1Z_G_Uks9iCqa79Zhf1zGk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmI1ZTI1NmUy/MTc1ODVkODlkODAw/MzA1ZjcyMTlmNzVk/MzljMWU1ZmRiODlh/ZDg2NzkwNWVlOWYy/NzIyMTYwNy9oYWJy/LmNvbS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "habr.com",
+          "hostname": "habr.com",
+          "favicon": "https://imgs.search.brave.com/U9Ky9LVSKyuSR1f51Am9A1Z_G_Uks9iCqa79Zhf1zGk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmI1ZTI1NmUy/MTc1ODVkODlkODAw/MzA1ZjcyMTlmNzVk/MzljMWU1ZmRiODlh/ZDg2NzkwNWVlOWYy/NzIyMTYwNy9oYWJy/LmNvbS8",
+          "path": "› ru  › companies  › otus  › articles  › 658453"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ivR24IwruCk0OpO3mDyVGAUMAvu485DI7OsGy6rBVPM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9oYWJy/LmNvbS9zaGFyZS9w/dWJsaWNhdGlvbi82/NTg0NTMvNDRjMDkw/NGM1ZmE2Yjk4OGQx/YjVlZWVhMWVhMWY2/YjUv",
+          "original": "https://habr.com/share/publication/658453/44c0904c5fa6b988d1b5eeea1ea1f6b5/",
+          "logo": false
+        },
+        "age": "March 31, 2022",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Дмитрий Головин"
+            }
+          ],
+          "date": "Mar 31, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "Habr",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/BzRGGmG6881f37VDE7AS_NhkjRzNTATxUr0bbFoFNNg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9oYWJy/YXN0b3JhZ2Uub3Jn/L3dlYnQvYV8vbGsv/OW0vYV9sazltamtj/Y2pveC16Y2NqcnBm/b2xta21xLnBuZw",
+              "original": "https://habrastorage.org/webt/a_/lk/9m/a_lk9mjkccjox-zccjrpfolmkmq.png"
+            }
+          }
+        },
+        "extra_snippets": [
+          "Львиная доля всех статей, которые посвящены вопросу обратной разработки посвящены темам анализа низкоуровневого представления приложений и работы прошивок устройств."
+        ]
+      },
+      {
+        "title": "Как подключиться к API продуктивного контура | Официальный сайт сообщества маркировки «Честный знак»",
+        "url": "https://markirovka.ru/knowledge/lekarstva/api-mdlp/kak-podklyuchitsya-k-api-produktivnogo-kontura",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Далее необходимо ... &quot;Помощь&quot; личного кабинета системы маркировки Честный Знак для лекарственных препаратов....",
+        "profile": {
+          "name": "Markirovka",
+          "url": "https://markirovka.ru/knowledge/lekarstva/api-mdlp/kak-podklyuchitsya-k-api-produktivnogo-kontura",
+          "long_name": "markirovka.ru",
+          "img": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "markirovka.ru",
+          "hostname": "markirovka.ru",
+          "favicon": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw",
+          "path": "› knowledge  › lekarstva  › api-mdlp  › kak-podklyuchitsya-k-api-produktivnogo-kontura"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/IPJ48cI0Y8wjdrGUj8st4q1tssJg0WLldQemiu_xyiA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tYXJr/aXJvdmthLnJ1L3Vw/bG9hZC9jb3Zlci5w/bmc",
+          "original": "https://markirovka.ru/upload/cover.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "5. Учетная система зарегистрирована. Для возврата в меню системы маркировки Честный Знак необходимо закрыть информационное окно.",
+          "Далее необходимо воспользоваться методом аутентификации из раздела 6.2.1. \"Метод для получения кода аутентификации\" согласно документу \"Описание API Государственной информационной системы мониторинга и движения лекарственных препаратов\", который доступен в разделе \"Помощь\" личного кабинета системы маркировки Честный Знак для лекарственных препаратов.",
+          "Как осуществляется интеграция товароучетных систем с системой маркировки Честный Знак для лекарственных препаратов?",
+          "Возможно ли получить информацию о вложенности SSCC в ЛК системы маркировки Честный знак для лекарственных препаратов методами API?"
+        ]
+      },
+      {
+        "title": "Начало работы с методами API системы маркировки Честный Знак для лекарственных препаратов | Официальный сайт сообщества маркировки «Честный знак»",
+        "url": "https://markirovka.ru/knowledge/lekarstva/api-mdlp/nachalo-raboty-s-metodami-api-sistemy-markirovki-chestnyy-znak-dlya-lekarstvennykh-preparatov",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Обмен данными на интерфейсном уровне с помощью методов API дает возможность взаимодействия системы маркировки Честный Знак для ...",
+        "profile": {
+          "name": "Markirovka",
+          "url": "https://markirovka.ru/knowledge/lekarstva/api-mdlp/nachalo-raboty-s-metodami-api-sistemy-markirovki-chestnyy-znak-dlya-lekarstvennykh-preparatov",
+          "long_name": "markirovka.ru",
+          "img": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "markirovka.ru",
+          "hostname": "markirovka.ru",
+          "favicon": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw",
+          "path": "› knowledge  › lekarstva  › api-mdlp  › nachalo-raboty-s-metodami-api-sistemy-markirovki-chestnyy-znak-dlya-lekarstvennykh-preparatov"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/IPJ48cI0Y8wjdrGUj8st4q1tssJg0WLldQemiu_xyiA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tYXJr/aXJvdmthLnJ1L3Vw/bG9hZC9jb3Zlci5w/bmc",
+          "original": "https://markirovka.ru/upload/cover.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Обмен данными на интерфейсном уровне с помощью методов API дает возможность взаимодействия системы маркировки Честный Знак для лекарственных препаратов с различными товароучетными системами.",
+          "Документация доступна в разделе \"Помощь\" личного кабинета системы маркировки Честный Знак для лекарственных препаратов.",
+          "Как осуществляется интеграция товароучетных систем с системой маркировки Честный Знак для лекарственных препаратов?",
+          "Возможно ли получить информацию о вложенности SSCC в ЛК системы маркировки Честный знак для лекарственных препаратов методами API?"
+        ]
+      },
+      {
+        "title": "Маркировка воды — инструкции, документация, API | Официальный сайт Честный ЗНАК",
+        "url": "https://xn--80ajghhoc2aj1c8b.xn--p1ai/business/projects/water/instructions/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Инструкции и руководства пользователей, технологические регламенты, маркировка воды по шагам на сайте национальной системы цифровой маркировки Честный ЗНАК.",
+        "profile": {
+          "name": "Xn--80ajghhoc2aj1c8b",
+          "url": "https://xn--80ajghhoc2aj1c8b.xn--p1ai/business/projects/water/instructions/",
+          "long_name": "xn--80ajghhoc2aj1c8b.xn--p1ai",
+          "img": "https://imgs.search.brave.com/pDqqnmk-iVrpda24PgzpR2784-b8hbDSsvrzJApdBAA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE3NzNlYmJh/YTUyYzc1NDI5MjJi/MDJkMDQ4YjI1NDk1/MzcwMDBlNDc0Yjk5/ZjgyMmUyNjFkN2Ri/NTVjNjNjMi94bi0t/ODBhamdoaG9jMmFq/MWM4Yi54bi0tcDFh/aS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "xn--80ajghhoc2aj1c8b.xn--p1ai",
+          "hostname": "xn--80ajghhoc2aj1c8b.xn--p1ai",
+          "favicon": "https://imgs.search.brave.com/pDqqnmk-iVrpda24PgzpR2784-b8hbDSsvrzJApdBAA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE3NzNlYmJh/YTUyYzc1NDI5MjJi/MDJkMDQ4YjI1NDk1/MzcwMDBlNDc0Yjk5/ZjgyMmUyNjFkN2Ri/NTVjNjNjMi94bi0t/ODBhamdoaG9jMmFq/MWM4Yi54bi0tcDFh/aS8",
+          "path": "  › главная"
+        },
+        "extra_snippets": [
+          "Регистрация в системе Честный знак — необходимое требование для всех участников оборота маркированной продукции",
+          "Официальный сайт государственной системы маркировки и прослеживания «Честный знак»",
+          "Руководство пользователя мобильного приложения «Честный ЗНАК.Бизнес»"
+        ]
+      },
+      {
+        "title": "Crpt",
+        "url": "https://docs.crpt.ru/gismt/%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A7%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9_%D0%97%D0%9D%D0%90%D0%9A_%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Мобильное приложение «ЧЗ.Бизнес» помогает оформлять документы без использования личного кабинета Системы маркировки — напрямую на смартфоне путём сканирования ...",
+        "profile": {
+          "name": "Crpt",
+          "url": "https://docs.crpt.ru/gismt/%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A7%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9_%D0%97%D0%9D%D0%90%D0%9A_%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/",
+          "long_name": "docs.crpt.ru",
+          "img": "https://imgs.search.brave.com/QUXZ7x8OdZyvrJ6oqtkWJGoWZ4lx4BpYjNZXVEc4vjs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjJjYWI0NTM2/Zjg0ZWQ1OGZhZDJk/MzA0MTAxNjllODc0/YWI3OWY1Y2ZjZTE0/ODgwMmZlMjM1NTE2/OTQ4ODY5MS9kb2Nz/LmNycHQucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "docs.crpt.ru",
+          "hostname": "docs.crpt.ru",
+          "favicon": "https://imgs.search.brave.com/QUXZ7x8OdZyvrJ6oqtkWJGoWZ4lx4BpYjNZXVEc4vjs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjJjYWI0NTM2/Zjg0ZWQ1OGZhZDJk/MzA0MTAxNjllODc0/YWI3OWY1Y2ZjZTE0/ODgwMmZlMjM1NTE2/OTQ4ODY5MS9kb2Nz/LmNycHQucnUv",
+          "path": "› gismt  › Мобильное_приложение_Честный_ЗНАК_Бизнес"
+        },
+        "extra_snippets": [
+          "Руководство пользователя мобильного приложения «Честный ЗНАК.Бизнес»"
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}

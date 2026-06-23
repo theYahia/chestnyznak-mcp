@@ -1,0 +1,17 @@
+{
+  "generated": "2026-06-23T09:29:47Z",
+  "duration_seconds": 8.42,
+  "total_queries": 7,
+  "deduped_count": 47,
+  "quality_avg": 4.7,
+  "stats": {
+    "web_ok": 7,
+    "unique_hostnames": 36
+  },
+  "warnings": [
+    "- [\"codeFounded\" честный знак API response JSON]: zero web results",
+    "- [mobile.api.crpt.ru/mobile/check честный ]: 1 JSON-serialized snippets",
+    "- [честный знак API ownerInn producerInn br]: 1 JSON-serialized snippets",
+    "- [mobile.api.crpt.ru check request body co]: 1 JSON-serialized snippets"
+  ]
+}

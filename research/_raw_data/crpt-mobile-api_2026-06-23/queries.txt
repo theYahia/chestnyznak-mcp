@@ -1,0 +1,10 @@
+host_path|mobile.api.crpt.ru/mobile/check честный знак mobile API endpoint|focused
+li0ard_lib|li0ard nechestniy_znak github mobile API честный знак|focused
+codefounded|"codeFounded" честный знак API response JSON|focused
+mobile_response|честный знак мобильное приложение API ответ JSON productName productGroupName|focused
+reverse_eng|reverse engineering честный знак app API mobile.api.crpt.ru habr|focused
+brand_owner|честный знак API ownerInn producerInn brand response fields|focused
+mobile_check_body|mobile.api.crpt.ru check request body code marking|focused
+github_clients|github честный знак client library mobile api crpt python php go|broad
+status_codes|честный знак API status statusText valid invalid code response|broad
+docs_crpt|docs.crpt.ru мобильное приложение честный знак API|broad

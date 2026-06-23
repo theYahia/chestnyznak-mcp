@@ -1,0 +1,1087 @@
+{
+  "type": "search",
+  "query": {
+    "original": "mobile.api.crpt.ru check request body code marking",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "infobox": {
+    "type": "graph",
+    "results": [
+      {
+        "title": "Check API Request body",
+        "url": "https://stackoverflow.com/questions/50568873/check-api-request-body",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "",
+        "family_friendly": true,
+        "type": "infobox",
+        "position": 4,
+        "attributes": [],
+        "providers": [
+          {
+            "type": "external",
+            "name": "Stack Overflow",
+            "url": "https://stackoverflow.com/questions/50568873/check-api-request-body",
+            "img": "https://imgs.search.brave.com/4WRMec_wn8Q9LO6DI43kkBvIL6wD5TYCXztC9C9kEI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWU3Zjg0ZjA1/YjQ3ZTlkNjQ1ODA1/MjAwODhiNjhjYWU0/OTc4MjM4ZDJlMTBi/ODExYmNiNTkzMjdh/YjM3MGExMS9zdGFj/a292ZXJmbG93LmNv/bS8"
+          }
+        ],
+        "subtype": "code",
+        "data": {
+          "question": "Check API Request body",
+          "answer": {
+            "text": "<p>First, I'd highly recommend using a library like Retrofit as @Luis Henriques mentioned. Retrofit simplifies a lot of the complexities that go into building manual URLConnections.</p>\n\n<p>That said, you're pretty much looking at your request exactly as it appears being sent. If you want a more granular view, I'd suggest changing your URL to a host you control (ie. localhost on an in home/office setup) and monitoring the connection via Wireshark (make sure you send it as a HTTP rather than HTTPS request though).</p>\n\n<p>As a potential bug, you're passing your <code>urlParameters</code> as your post body. Wouldn't you want your URL parameters as part of the URL? Looking at the API documentation too: <code>grant_type</code>, <code>password</code>, <code>username</code>, and <code>client_id</code>, should be in your post body not set as a request property. <code>setRequestProperty</code> sets header properties.</p>",
+            "author": "Dan 0",
+            "upvoteCount": 2
+          }
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "stackoverflow.com",
+          "hostname": "stackoverflow.com",
+          "favicon": "https://imgs.search.brave.com/4WRMec_wn8Q9LO6DI43kkBvIL6wD5TYCXztC9C9kEI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWU3Zjg0ZjA1/YjQ3ZTlkNjQ1ODA1/MjAwODhiNjhjYWU0/OTc4MjM4ZDJlMTBi/ODExYmNiNTkzMjdh/YjM3MGExMS9zdGFj/a292ZXJmbG93LmNv/bS8",
+          "path": "› questions  › 50568873  › check-api-request-body"
+        }
+      }
+    ]
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "infobox",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=dZ2CkvxuWIo",
+        "title": "How to ACTUALLY Secure Your API (5 Steps) - YouTube",
+        "description": "There are so many opinions when it comes to API route security. Which do you listen to? How can you avoid data leaks or unauthorized API access? Here are my ...",
+        "age": "June 29, 2023",
+        "page_age": "2023-06-29T15:45:03",
+        "fetched_content_timestamp": 1720357381,
+        "video": {
+          "duration": "07:42",
+          "views": 56939,
+          "creator": "Josh tried coding",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/j3tQqoGqKYCoHVzqkkwOyZ2Nf93TaCSV2X8nE9oPBWI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9k/WjJDa3Z4dVdJby9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/dZ2CkvxuWIo/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=6WZ6S-qmtqY",
+        "title": "Top 12 Tips For API Security - YouTube",
+        "description": "Get a Free System Design PDF with 158 pages by subscribing to our weekly newsletter: https://bit.ly/bytebytegoytTopicAnimation tools: Adobe Illustrator and A",
+        "age": "April 17, 2024",
+        "page_age": "2024-04-17T15:58:11",
+        "fetched_content_timestamp": 1782069360,
+        "video": {
+          "duration": "09:47",
+          "creator": "ByteByteGo",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/V61hg-sGFibEATPjXWROLSFIDD2oVTJ5zN--aVC59DQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS82/V1o2Uy1xbXRxWS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/6WZ6S-qmtqY/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=bKfbzxkw8yo",
+        "title": "API Security: 10 Essential Measures Every Developer Must Know - ...",
+        "description": "In 2025, 84% of organizations experienced at least one API security incident. API calls now make up 71% of web traffic, and API breaches leak 10x more data t...",
+        "age": "December 10, 2025",
+        "page_age": "2025-12-10T00:08:49",
+        "fetched_content_timestamp": 1781807937,
+        "video": {
+          "duration": "19:16",
+          "creator": "Coding Tech",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/nr5srx-yZyjlQCz74ant5QwkTr64BWau2zHc_qoek30/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9i/S2Zienhrdzh5by9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/bKfbzxkw8yo/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=n2IhwohWYZM",
+        "title": "Secure Access APIs: Authentication Best Practices - YouTube",
+        "description": "In today's episode, we'll dive into Secure Access APIs: Authentication Best Practices content with ​​Yaron Caspy, API Product Manager at Cisco.00:00 Introduc...",
+        "age": "July 19, 2024",
+        "page_age": "2024-07-19T22:24:42",
+        "fetched_content_timestamp": 1781747695,
+        "video": {
+          "duration": "11:00",
+          "creator": "Cisco DevNet",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/xFhKPuJsFvvd-NUiepkUoJXjT-U8ic2mNyZ2AhkKKhY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9u/Mklod29oV1laTS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/n2IhwohWYZM/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=FsB_nRGdeLs",
+        "title": "API Security Explained: Rate Limiting, CORS, SQL Injection, CSRF, ...",
+        "description": "Become a senior software engineer with a job guarantee: https://go.hayksimonyan.com/133-api-security-explainedLearn 7 proven techniques to protect your APIs,",
+        "age": "August 12, 2025",
+        "page_age": "2025-08-12T13:40:00",
+        "fetched_content_timestamp": 1781675080,
+        "video": {
+          "duration": "08:41",
+          "creator": "Hayk Simonyan",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/q9vgelIFtG-bKg7jfuKyL2mc2Ok1q9emx7jZYVERmdI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9G/c0JfblJHZGVMcy9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/FsB_nRGdeLs/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://m.youtube.com/watch?v=BPGpdwPRP6I",
+        "title": "Securing a REST API with JWT, concepts",
+        "description": "Share your videos with friends, family, and the world",
+        "fetched_content_timestamp": 1743402011,
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "m.youtube.com",
+          "hostname": "m.youtube.com",
+          "favicon": "https://imgs.search.brave.com/p0B86IaQr1YuFWzlQTuEltmxPAh7UzF2DpyN8i96T6M/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTExOWJhZDk1/ZTUxZWUwYmE3NTg0/N2QzZjQwZjZhMTE5/ZTc1NWY5MzMwYjll/OTJhNTM3ZjdmZTMw/MzdlM2EwNC9tLnlv/dXR1YmUuY29tLw",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/8HIwxq2zLpee443-6qPWk0jAH-RnytB31bQBPi7tl_U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9C/UEdwZHdQUlA2SS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/BPGpdwPRP6I/maxresdefault.jpg"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "при запросе https://markirovka.crpt.ru/api/v4/true-api/codes/check \"code\": 401, \"description\": \"Unsupported algorithm=[HS256]\", | Официальный сайт сообщества маркировки «Честный знак»",
+        "url": "https://www.markirovka.ru/community/ask-expert/pri-zaprose-https-markirovka-crpt-ru-api-v4-true-api-codes-check-code-401-description-unsupported-al",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "} передаем Bearer token, полученный из https://markirovka.crpt.ru/api/v3/true-api/auth/permissive-access Получаем: «code»: 401, «description»: «Unsupported algorithm=[HS256]», 27.03.24 все работало еще, а сегодня уже нет.",
+        "profile": {
+          "name": "Markirovka",
+          "url": "https://www.markirovka.ru/community/ask-expert/pri-zaprose-https-markirovka-crpt-ru-api-v4-true-api-codes-check-code-401-description-unsupported-al",
+          "long_name": "markirovka.ru",
+          "img": "https://imgs.search.brave.com/94Ffb493quuu3Ogql4OtB5HVZQVXTNrZlQOX__Xyt8E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODFlOWY1ZGMx/ZWM2ZGNjOWYwMjNk/NWMzY2JlYzYyN2E2/MWFhMDA2YWEwMDlm/Y2M5NjY1NDZjN2I1/YzJkZWI3NC93d3cu/bWFya2lyb3ZrYS5y/dS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "markirovka.ru",
+          "hostname": "www.markirovka.ru",
+          "favicon": "https://imgs.search.brave.com/94Ffb493quuu3Ogql4OtB5HVZQVXTNrZlQOX__Xyt8E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODFlOWY1ZGMx/ZWM2ZGNjOWYwMjNk/NWMzY2JlYzYyN2E2/MWFhMDA2YWEwMDlm/Y2M5NjY1NDZjN2I1/YzJkZWI3NC93d3cu/bWFya2lyb3ZrYS5y/dS8",
+          "path": "› community  › ask-expert  › pri-zaprose-https-markirovka-crpt-ru-api-v4-true-api-codes-check-code-401-description-unsupported-al"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/IPJ48cI0Y8wjdrGUj8st4q1tssJg0WLldQemiu_xyiA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tYXJr/aXJvdmthLnJ1L3Vw/bG9hZC9jb3Zlci5w/bmc",
+          "original": "https://markirovka.ru/upload/cover.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "при запросе https://markirovka.crpt.ru/api/v4/true-api/codes/check запрашиваем{ «codes»:[ «0104602048011084215me5!0\\u001d93baPT» ]}передаем Bearer token, полученный из…",
+          "} передаем Bearer token, полученный из https://markirovka.crpt.ru/api/v3/true-api/auth/permissive-access Получаем: «code»: 401, «description»: «Unsupported algorithm=[HS256]», 27.03.24 все работало еще, а сегодня уже нет.",
+          "при запросе https://markirovka.crpt.ru/api/v4/true-api/codes/check запрашиваем {"
+        ]
+      },
+      {
+        "title": "Что не так с запросом информации о коде маркировки? - Форум.Инфостарт",
+        "url": "https://forum.infostart.ru/forum9/topic307065/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "ЗаголовокHTTP = Новый Соответствие(); ЗаголовокHTTP.Вставить(&quot;Content-Type&quot;, &quot;application/json; charset=utf-8&quot;); ЗаголовокHTTP.Вставить(&quot;Accept-Charset&quot;, &quot;utf-8&quot;); ЗаголовокHTTP.Вставить(&quot;X-API-KEY&quot;, КлючСессии); URLЗапроса = &quot;api/v4/true-api/codes/check&quot;; Запрос = Новый HTTPЗапрос(URLЗапроса, ЗаголовокHTTP); Запрос.УстановитьТелоИзСтроки(&quot;{ &quot;&quot;codes&quot;&quot;: &quot;&quot;&quot;+СокрЛП(КодМаркировки)+&quot;&quot;&quot; }&quot;, КодировкаТекста.UTF8);",
+        "profile": {
+          "name": "Infostart",
+          "url": "https://forum.infostart.ru/forum9/topic307065/",
+          "long_name": "forum.infostart.ru",
+          "img": "https://imgs.search.brave.com/kFPNPWwedKKFnshn65_rliNUbfAvl6OMEWvP8_BlCis/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTlkMjVkZmUy/ZjJiODRhNWM4ODY5/YTI0NjMyYmMxMmFi/Y2ZiZDdjYTI1Zjlk/ZTAxZWFmMjQ0M2E2/Nzc0OTJiMi9mb3J1/bS5pbmZvc3RhcnQu/cnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "forum.infostart.ru",
+          "hostname": "forum.infostart.ru",
+          "favicon": "https://imgs.search.brave.com/kFPNPWwedKKFnshn65_rliNUbfAvl6OMEWvP8_BlCis/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTlkMjVkZmUy/ZjJiODRhNWM4ODY5/YTI0NjMyYmMxMmFi/Y2ZiZDdjYTI1Zjlk/ZTAxZWFmMjQ0M2E2/Nzc0OTJiMi9mb3J1/bS5pbmZvc3RhcnQu/cnUv",
+          "path": "› forum9  › topic307065"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Jnea7T9h-LX1zbfI7qqIHJdzOYd48xP4DXQIAKFpLZ0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mb3J1/bS5pbmZvc3RhcnQu/cnUvdXBsb2FkL2lt/Zy9sb2dvMzAweDMw/MC5qcGc",
+          "original": "https://forum.infostart.ru/upload/img/logo300x300.jpg",
+          "logo": true
+        },
+        "extra_snippets": [
+          "(7) разобрался в ситуации: 1. надо получить список контуров и отправлять запрос на контур из списка. желательно еще перед этим определить какой контур наиболее близкий. Т.е. указанный автором топика контур markirovka.crpt.ru для данного запроса уже не канает с 12 февраля этого года.",
+          "ЗаголовокHTTP = Новый Соответствие(); ЗаголовокHTTP.Вставить(\"Content-Type\", \"application/json; charset=utf-8\"); ЗаголовокHTTP.Вставить(\"Accept-Charset\", \"utf-8\"); ЗаголовокHTTP.Вставить(\"X-API-KEY\", КлючСессии); URLЗапроса = \"api/v4/true-api/codes/check\"; Запрос = Новый HTTPЗапрос(URLЗапроса, ЗаголовокHTTP); Запрос.УстановитьТелоИзСтроки(\"{ \"\"codes\"\": \"\"\"+СокрЛП(КодМаркировки)+\"\"\" }\", КодировкаТекста.UTF8);",
+          "https://markirovka.ru/community/rezhim-proverok-na-kassakh/rezhim-proverok-na-kassakh ... Если запрос отправлять в песочницу markirovka.sandbox.crptech.ru, то возвращает {\"code\":401,\"description\":\"Unknown X-Api-Key\",\"codes\":[]}",
+          "https://markirovka.crpt.ru/api/v4/true-api/codes/check Правда, в отличие от ТС я пользуюсь не HTTPЗапрос, а WinHttp: WinHttp = Новый COMОбъект(\"WinHttp.WinHttpRequest.5.1\"); попытка WinHttp.Open(\"POST\", \"https://markirovka.crpt.ru/api/v4/true-api/codes/check/\",0); WinHttp.SetRequestHeader(\"X-API-KEY\", Токен); WinHttp.SetRequestHeader(\"Content-Type\", \"application/json; charset=utf-8\"); WinHttp.SetRequestHeader(\"Accept-Charset\", \"utf-8\"); СтрокаЗапроса = \"{\"\"codes\"\":[\"\"\" + СтрЗаменить(Код, \"\"\"\", \"\\\"\"\")+\"\"\"], \""
+        ]
+      },
+      {
+        "title": "при запросе https://markirovka.crpt.ru/api/v4/true-api/codes ...",
+        "url": "https://95.214.63.195/community/ask-expert/pri-zaprose-https-markirovka-crpt-ru-api-v4-true-api-codes-check-code-401-description-unsupported-al",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "We cannot provide a description for this page right now",
+        "profile": {
+          "name": "95.214.63.195",
+          "url": "https://95.214.63.195/community/ask-expert/pri-zaprose-https-markirovka-crpt-ru-api-v4-true-api-codes-check-code-401-description-unsupported-al",
+          "long_name": "95.214.63.195",
+          "img": "https://imgs.search.brave.com/A78ReSgtgxpOqJTV1-k2e22o2YxDGSiWuG0HCJohAr0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDJhY2E3NDg2/MTY5MTZlMTkyYTg5/MWIyMTJhNjhiMjY5/MDM3YmUyZTAyOWRk/MWE1YjAwMDdmZTRh/M2ZjYzNkNS85NS4y/MTQuNjMuMTk1Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "95.214.63.195",
+          "hostname": "95.214.63.195",
+          "favicon": "https://imgs.search.brave.com/A78ReSgtgxpOqJTV1-k2e22o2YxDGSiWuG0HCJohAr0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDJhY2E3NDg2/MTY5MTZlMTkyYTg5/MWIyMTJhNjhiMjY5/MDM3YmUyZTAyOWRk/MWE1YjAwMDdmZTRh/M2ZjYzNkNS85NS4y/MTQuNjMuMTk1Lw",
+          "path": "› community  › ask-expert  › pri-zaprose-https-markirovka-crpt-ru-api-v4-true-api-codes-check-code-401-description-unsupported-al"
+        }
+      },
+      {
+        "title": "",
+        "url": "https://mobile.api.crpt.ru/assets/eula.pdf",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "We cannot provide a description for this page right now",
+        "profile": {
+          "name": "Crpt",
+          "url": "https://mobile.api.crpt.ru/assets/eula.pdf",
+          "long_name": "mobile.api.crpt.ru",
+          "img": "https://imgs.search.brave.com/kUnQanj4i8UkPhGYvOwLktJOEsE7uYVoFP1BTjVysX4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2RkMDBlNTBi/OTQzMjk4YmViYTZh/NzlmZWM2NDQyNGE1/N2M0MWVmNThhMTdl/ZjY1MGEwNzdkOWEw/NmUwMDMwYi9tb2Jp/bGUuYXBpLmNycHQu/cnUv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "mobile.api.crpt.ru",
+          "hostname": "mobile.api.crpt.ru",
+          "favicon": "https://imgs.search.brave.com/kUnQanj4i8UkPhGYvOwLktJOEsE7uYVoFP1BTjVysX4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2RkMDBlNTBi/OTQzMjk4YmViYTZh/NzlmZWM2NDQyNGE1/N2M0MWVmNThhMTdl/ZjY1MGEwNzdkOWEw/NmUwMDMwYi9tb2Jp/bGUuYXBpLmNycHQu/cnUv",
+          "path": "› assets  › eula.pdf"
+        }
+      },
+      {
+        "title": "android - Check API Request body - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/50568873/check-api-request-body",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "I am performing an HTTP Post Request on an API EndPoint. It is the password authorization grant of the OAuth2 protocol. I get back a 400 code, &quot;bad request&quot;.. To advance, I want to get the exact ...",
+        "profile": {
+          "name": "Stack Overflow",
+          "url": "https://stackoverflow.com/questions/50568873/check-api-request-body",
+          "long_name": "stackoverflow.com",
+          "img": "https://imgs.search.brave.com/4WRMec_wn8Q9LO6DI43kkBvIL6wD5TYCXztC9C9kEI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWU3Zjg0ZjA1/YjQ3ZTlkNjQ1ODA1/MjAwODhiNjhjYWU0/OTc4MjM4ZDJlMTBi/ODExYmNiNTkzMjdh/YjM3MGExMS9zdGFj/a292ZXJmbG93LmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "qa",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "stackoverflow.com",
+          "hostname": "stackoverflow.com",
+          "favicon": "https://imgs.search.brave.com/4WRMec_wn8Q9LO6DI43kkBvIL6wD5TYCXztC9C9kEI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWU3Zjg0ZjA1/YjQ3ZTlkNjQ1ODA1/MjAwODhiNjhjYWU0/OTc4MjM4ZDJlMTBi/ODExYmNiNTkzMjdh/YjM3MGExMS9zdGFj/a292ZXJmbG93LmNv/bS8",
+          "path": "› questions  › 50568873  › check-api-request-body"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/8rYjSv2_oY3M4_lTWZkus1tHOIG9JiPNKVK68dZmOHo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGFj/a292ZXJmbG93LmNv/bS9Db250ZW50L1Np/dGVzL3N0YWNrb3Zl/cmZsb3cvSW1nL2Fw/cGxlLXRvdWNoLWlj/b25AMi5wbmc_dj0w/ZjBjYWI2ODE1Nzk",
+          "original": "https://stackoverflow.com/Content/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=0f0cab681579",
+          "logo": true
+        },
+        "qa": {
+          "question": "Check API Request body",
+          "answer": {
+            "text": "<p>First, I'd highly recommend using a library like Retrofit as @Luis Henriques mentioned. Retrofit simplifies a lot of the complexities that go into building manual URLConnections.</p>\n\n<p>That said, you're pretty much looking at your request exactly as it appears being sent. If you want a more granular view, I'd suggest changing your URL to a host you control (ie. localhost on an in home/office setup) and monitoring the connection via Wireshark (make sure you send it as a HTTP rather than HTTPS request though).</p>\n\n<p>As a potential bug, you're passing your <code>urlParameters</code> as your post body. Wouldn't you want your URL parameters as part of the URL? Looking at the API documentation too: <code>grant_type</code>, <code>password</code>, <code>username</code>, and <code>client_id</code>, should be in your post body not set as a request property. <code>setRequestProperty</code> sets header properties.</p>",
+            "author": "Dan 0",
+            "upvoteCount": 2
+          }
+        }
+      },
+      {
+        "title": "Онлайн проверка марок Честный знак при разрешительном порядке в розничной торговле для v.8 и 7.7",
+        "url": "https://infostart.ru/1c/tools/2065151/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "- До 01.04.2024 можно использовать markirovka.crpt.ru",
+        "profile": {
+          "name": "Инфостарт",
+          "url": "https://infostart.ru/1c/tools/2065151/",
+          "long_name": "infostart.ru",
+          "img": "https://imgs.search.brave.com/risZ6GoSr9tqzk81rvK2pCrln14FQjeWdBygyBRJNX8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzdiOWY0NzVj/MzlkZGJmNTJmODM2/YWZiNTg0ZjZhNjMz/ZjUxOGE4N2I3M2Vm/Njk2YjZhZDc4MzFl/MzgzZGE4Mi9pbmZv/c3RhcnQucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "infostart.ru",
+          "hostname": "infostart.ru",
+          "favicon": "https://imgs.search.brave.com/risZ6GoSr9tqzk81rvK2pCrln14FQjeWdBygyBRJNX8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzdiOWY0NzVj/MzlkZGJmNTJmODM2/YWZiNTg0ZjZhNjMz/ZjUxOGE4N2I3M2Vm/Njk2YjZhZDc4MzFl/MzgzZGE4Mi9pbmZv/c3RhcnQucnUv",
+          "path": "› 1c  › tools  › 2065151"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/M01ym_XxfOAeLAjdw2j3amAfRaV4PCgID8yzIceI3Vw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbmZv/c3RhcnQucnUvdXBs/b2FkL2ltZy9sb2dv/MzAweDMwMC5qcGc",
+          "original": "https://infostart.ru/upload/img/logo300x300.jpg",
+          "logo": true
+        },
+        "article": {
+          "author": []
+        },
+        "extra_snippets": [
+          "Уже с 01.04.2024 вводится так называемый \"разрешительный\" режим продажи маркированной продукции в розницу. Это значит, что перед продажей нужно запрашивать у сервиса ЦРПТ разрешение на реализацию каждой марки.",
+          "(21) По моему опыту 1.5 секунды не хватает, да. И ведь с 01.04.2024 использовать адрес markirovka.crpt.ru будет нельзя. Можно только CDN-площадки. По идее, эти площадки и вводились, чтобы распределить нагрузку и уменьшить время ответа.",
+          "Может быть, у Вас что то не так с интернетом/антивирусом/сетевым экраном? Часто работе с CDN-площадками мешает, например, защитник windows. Основные адреса markirovka.crpt.ru и cdn.crpt.ru он при этом не трогает.",
+          "- До 01.04.2024 можно использовать markirovka.crpt.ru"
+        ]
+      },
+      {
+        "title": "Планируемые изменения в True API",
+        "url": "https://docs.crpt.ru/gismt/Exchange/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "{ &quot;number&quot;:154532, &quot;checkDate&quot;:1750511775, &quot;category&quot;:&quot;milk&quot;, &quot;inn&quot;:&quot;123123123&quot;, &quot;kind&quot;:&quot;NO_MARKING&quot;, &quot;comment&quot;:&quot;Это не масло, а маргарин&quot;, &quot;salePoint&quot;:{ &quot;name&quot;:&quot;АО \\&quot;Предприятие\\&quot;&quot;, &quot;inn&quot;:&quot;123123123&quot;, &quot;regionFiasId&quot;:&quot;1ac11b11-1111-1111-b1bf-a111ea1aecd1&quot;, &quot;houseFiasId&quot;:&quot;1ac11b11-1111-1111-b1bf-a111ea1aecd1&quot;, &quot;regionName&quot;:&quot;Ивановская область&quot;, &quot;address&quot;:&quot;630520, Новосибирская обл, Новосибирский р-н, село Верх-Тула, ул Советская, д 77777&quot;, &quot;marketplace&quot;:null }, &quot;product&quot;:{ &quot;category&quot;:&quot;milk&quot;,",
+        "profile": {
+          "name": "Crpt",
+          "url": "https://docs.crpt.ru/gismt/Exchange/",
+          "long_name": "docs.crpt.ru",
+          "img": "https://imgs.search.brave.com/QUXZ7x8OdZyvrJ6oqtkWJGoWZ4lx4BpYjNZXVEc4vjs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjJjYWI0NTM2/Zjg0ZWQ1OGZhZDJk/MzA0MTAxNjllODc0/YWI3OWY1Y2ZjZTE0/ODgwMmZlMjM1NTE2/OTQ4ODY5MS9kb2Nz/LmNycHQucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "docs.crpt.ru",
+          "hostname": "docs.crpt.ru",
+          "favicon": "https://imgs.search.brave.com/QUXZ7x8OdZyvrJ6oqtkWJGoWZ4lx4BpYjNZXVEc4vjs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjJjYWI0NTM2/Zjg0ZWQ1OGZhZDJk/MzA0MTAxNjllODc0/YWI3OWY1Y2ZjZTE0/ODgwMmZlMjM1NTE2/OTQ4ODY5MS9kb2Nz/LmNycHQucnUv",
+          "path": "› gismt  › Exchange"
+        },
+        "extra_snippets": [
+          "{ \"number\":154532, \"checkDate\":1750511775, \"category\":\"milk\", \"inn\":\"123123123\", \"kind\":\"NO_MARKING\", \"comment\":\"Это не масло, а маргарин\", \"salePoint\":{ \"name\":\"АО \\\"Предприятие\\\"\", \"inn\":\"123123123\", \"regionFiasId\":\"1ac11b11-1111-1111-b1bf-a111ea1aecd1\", \"houseFiasId\":\"1ac11b11-1111-1111-b1bf-a111ea1aecd1\", \"regionName\":\"Ивановская область\", \"address\":\"630520, Новосибирская обл, Новосибирский р-н, село Верх-Тула, ул Советская, д 77777\", \"marketplace\":null }, \"product\":{ \"category\":\"milk\",",
+          "Метод предназначен для создания универсального сообщения по API через XML для входящего / исходящего документа. ... curl --location --request POST '<URL стенда>/api/v3/true-api/edo/incoming-documents/xml/unimsg/{doc_id}' --header 'authorization: ET <Токен>' --header 'content-type: multipart/form-data' --form 'content=@/C:/Users//Desktop/ON.xml'",
+          "Метод предназначен для создания универсального сообщения по API через XML к титулу покупателя и предложению об аннулировании для входящего / исходящего документа. ... curl --location --request POST '<URL стенда>/api/v3/true-api/edo/incoming-documents/xml/unimsg/{doc_id}/event/{event_id} ' --header 'authorization: ET <Токен>' --header 'content-type: multipart/form-data' --form 'content=@/C:/Users//Desktop/ON.xml'",
+          "Описание типов документов см. в True API."
+        ]
+      },
+      {
+        "title": "Описание True API",
+        "url": "https://docs.crpt.ru/gismt/True_API/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "В описание выгрузок «Получение сведений по начислениям за коды маркировки», «Получение сведений по эмиссии и нанесению кодов маркировки», «Получение сведений ...",
+        "profile": {
+          "name": "Crpt",
+          "url": "https://docs.crpt.ru/gismt/True_API/",
+          "long_name": "docs.crpt.ru",
+          "img": "https://imgs.search.brave.com/QUXZ7x8OdZyvrJ6oqtkWJGoWZ4lx4BpYjNZXVEc4vjs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjJjYWI0NTM2/Zjg0ZWQ1OGZhZDJk/MzA0MTAxNjllODc0/YWI3OWY1Y2ZjZTE0/ODgwMmZlMjM1NTE2/OTQ4ODY5MS9kb2Nz/LmNycHQucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "docs.crpt.ru",
+          "hostname": "docs.crpt.ru",
+          "favicon": "https://imgs.search.brave.com/QUXZ7x8OdZyvrJ6oqtkWJGoWZ4lx4BpYjNZXVEc4vjs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjJjYWI0NTM2/Zjg0ZWQ1OGZhZDJk/MzA0MTAxNjllODc0/YWI3OWY1Y2ZjZTE0/ODgwMmZlMjM1NTE2/OTQ4ODY5MS9kb2Nz/LmNycHQucnUv",
+          "path": "› gismt  › True_API"
+        },
+        "extra_snippets": [
+          "Для работы с интерфейсом True API необходимо зарегистрироваться в ЛК ГИС: https://markirovka.crpt.ru/ - необходимо иметь ЛК с подключенной \u0000товарной группой, по которой планируется передача сведений по КИ.",
+          "Если в перечне заголовков запроса методов True API не окажется ни одного подходящего под сгенерированный сервером ответ, то True API вернется ответ c кодом = 406 (Not Acceptable) с пустым телом ответа.",
+          "Электронное взаимодействие осуществляется с применением программных интерфейсов взаимодействия (API) ГИС МТ и информа\u0000ционных систем участника оборота товаров.",
+          "новые методы могут быть реализованы с указанием версии, которая отличается от «v3» (версии 3), первоначально указываемой в документации API. В таком случае в URL стендов необходимо произвести замену версии на новую."
+        ]
+      },
+      {
+        "title": "GitHub - vladdevops/crpt-api: https://честныйзнак.рф API · GitHub",
+        "url": "https://github.com/vladdevops/crpt-api",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "&lt;?php use CrptApi\\IsmpTrueApi; $test = true; $ismpApi = new IsmpTrueApi($test); $uuid = &#x27;&lt;uuid полученный из getAuthData&gt;&#x27;; $signed = &#x27;&lt;Подписанные данные в base64 (ЭП присоединенная)&gt;&#x27;; try { $jwt = $ismpApi-&gt;getAuthToken($uuid, $signed); $token = $jwt-&gt;getToken(); } catch (\\Exception $e) { $message = $e-&gt;getMessage(); }",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/vladdevops/crpt-api",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› vladdevops  › crpt-api"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/TRoIcFcT810Q_vwnq1DKkf8TCx1emHqb_G8_hRo4ync/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS83/NzE3ZTExMmQ2MWEz/MTQyZWNhMTlkYWQ2/NDg5OWE2NGNjM2Q3/YjBmNjU0NTg0YmQ2/YjNjZjIwZjBiMzUy/ZDljL3ZsYWRkZXZv/cHMvY3JwdC1hcGk",
+          "original": "https://opengraph.githubassets.com/7717e112d61a3142eca19dad64899a64cc3d7b0f654584bd6b3cf20f0b352d9c/vladdevops/crpt-api",
+          "logo": false
+        },
+        "software": {
+          "name": "crpt-api",
+          "author": "vladdevops",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 2,
+          "forks": 0,
+          "programmingLanguage": "PHP"
+        },
+        "extra_snippets": [
+          "<?php use CrptApi\\IsmpTrueApi; $test = true; $ismpApi = new IsmpTrueApi($test); try { $authData = $ismpApi->getAuthData(); $uuid = $authData->getUuid(); $data = $authData->getData(); } catch (\\Exception $e) { $message = $e->getMessage(); }",
+          "<?php use CrptApi\\IsmpTrueApi; $test = true; $ismpApi = new IsmpTrueApi($test); $uuid = '<uuid полученный из getAuthData>'; $signed = '<Подписанные данные в base64 (ЭП присоединенная)>'; try { $jwt = $ismpApi->getAuthToken($uuid, $signed); $token = $jwt->getToken(); } catch (\\Exception $e) { $message = $e->getMessage(); }"
+        ]
+      },
+      {
+        "title": "Request Body Best Practices in REST API Design | Speakeasy",
+        "url": "https://www.speakeasy.com/api-design/request-body",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Design intuitive, validated request bodies that make your API easy to use while preventing errors and security vulnerabilities.",
+        "page_age": "2026-06-10T00:00:00",
+        "profile": {
+          "name": "Speakeasy",
+          "url": "https://www.speakeasy.com/api-design/request-body",
+          "long_name": "speakeasy.com",
+          "img": "https://imgs.search.brave.com/VnflbW337J8ezf-HaRx-gScC6z48O9-B-9xKkKc8ubk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ4YzlmMTkx/YjdlZjY3MmU0NWFk/YjRiNjI0NTE1ZTM4/YzdhZWVlODM4NzRk/NGM0YTcwMmFkYTVh/YWNjOGExZS93d3cu/c3BlYWtlYXN5LmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "speakeasy.com",
+          "hostname": "www.speakeasy.com",
+          "favicon": "https://imgs.search.brave.com/VnflbW337J8ezf-HaRx-gScC6z48O9-B-9xKkKc8ubk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ4YzlmMTkx/YjdlZjY3MmU0NWFk/YjRiNjI0NTE1ZTM4/YzdhZWVlODM4NzRk/NGM0YTcwMmFkYTVh/YWNjOGExZS93d3cu/c3BlYWtlYXN5LmNv/bS8",
+          "path": "› api-design  › request-body"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/YKoa8hlSRAF_To1Qr6ltqJHj9l8O-rF0Oq-8XDMw9GY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c3BlYWtlYXN5LmNv/bS9hcGkvb2c_dGl0/bGU9UmVxdWVzdCUy/MEJvZHklMjBCZXN0/JTIwUHJhY3RpY2Vz/JTIwaW4lMjBSRVNU/JTIwQVBJJTIwRGVz/aWdu",
+          "original": "https://www.speakeasy.com/api/og?title=Request%20Body%20Best%20Practices%20in%20REST%20API%20Design",
+          "logo": false
+        },
+        "age": "2 weeks ago"
+      },
+      {
+        "title": "При запросе через https://markirovka.crpt.ru/api/v4/true-api ...",
+        "url": "https://95.214.63.195/community/rezhim-proverok-na-kassakh/pri-zaprose-cherez-https-markirovka-crpt-ru-api-v4-true-api-codes-check-uzhe-paru-dney-poluchayu-otv-145",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "We cannot provide a description for this page right now",
+        "profile": {
+          "name": "95.214.63.195",
+          "url": "https://95.214.63.195/community/rezhim-proverok-na-kassakh/pri-zaprose-cherez-https-markirovka-crpt-ru-api-v4-true-api-codes-check-uzhe-paru-dney-poluchayu-otv-145",
+          "long_name": "95.214.63.195",
+          "img": "https://imgs.search.brave.com/A78ReSgtgxpOqJTV1-k2e22o2YxDGSiWuG0HCJohAr0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDJhY2E3NDg2/MTY5MTZlMTkyYTg5/MWIyMTJhNjhiMjY5/MDM3YmUyZTAyOWRk/MWE1YjAwMDdmZTRh/M2ZjYzNkNS85NS4y/MTQuNjMuMTk1Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "95.214.63.195",
+          "hostname": "95.214.63.195",
+          "favicon": "https://imgs.search.brave.com/A78ReSgtgxpOqJTV1-k2e22o2YxDGSiWuG0HCJohAr0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDJhY2E3NDg2/MTY5MTZlMTkyYTg5/MWIyMTJhNjhiMjY5/MDM3YmUyZTAyOWRk/MWE1YjAwMDdmZTRh/M2ZjYzNkNS85NS4y/MTQuNjMuMTk1Lw",
+          "path": "› community  › rezhim-proverok-na-kassakh  › pri-zaprose-cherez-https-markirovka-crpt-ru-api-v4-true-api-codes-check-uzhe-paru-dney-poluchayu-otv-145"
+        }
+      },
+      {
+        "title": "Building Better Mobile Apps With API Response Validation",
+        "url": "https://www.heady.io/blog/api-response-validation",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Explore the fundamentals of API response validation, its impact on mobile app development, key methods, tools, and the importance of status codes.",
+        "page_age": "2024-09-30T00:00:00",
+        "profile": {
+          "name": "Heady",
+          "url": "https://www.heady.io/blog/api-response-validation",
+          "long_name": "heady.io",
+          "img": "https://imgs.search.brave.com/PxOSNeGoRAHwC5H6LIW7hj2E8Cl1lbIbvLoURWZWJQg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmZiZDhmNmE3/YWQ4NjQ2Mjg1NzU1/ZmRhOTU2OWJiMzEx/YjY5YWJiMmUyY2Fi/Mjc3ODIxNjZlNTA0/N2VkODM1Yi93d3cu/aGVhZHkuaW8v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "heady.io",
+          "hostname": "www.heady.io",
+          "favicon": "https://imgs.search.brave.com/PxOSNeGoRAHwC5H6LIW7hj2E8Cl1lbIbvLoURWZWJQg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmZiZDhmNmE3/YWQ4NjQ2Mjg1NzU1/ZmRhOTU2OWJiMzEx/YjY5YWJiMmUyY2Fi/Mjc3ODIxNjZlNTA0/N2VkODM1Yi93d3cu/aGVhZHkuaW8v",
+          "path": "› blog  › api-response-validation"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/uNPE0sMVzpw51c_0Rh-LJotfpctYaFf2toP8UBrPYAE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aGVhZHkuaW8vaHVi/ZnMvQXNzZXRzJTIw/SnVuZSUyMDIwMjAv/T0cuaHAlMjAoMSku/anBn",
+          "original": "https://www.heady.io/hubfs/Assets%20June%202020/OG.hp%20(1).jpg",
+          "logo": false
+        },
+        "age": "September 30, 2024",
+        "extra_snippets": [
+          "Explore the fundamentals of API response validation, its impact on mobile app development, key methods, tools, and the importance of status codes.",
+          "The validation process involves comparing the API response against predefined rules and standards to check if it meets the expected criteria.",
+          "These rules and standards can include data types, data formats, response codes, headers, and more."
+        ]
+      },
+      {
+        "title": "Securing Your Backend API: A Comprehensive Guide | by Suneel Kumar | CodeX | Medium",
+        "url": "https://medium.com/codex/securing-your-backend-api-a-comprehensive-guide-9bf5e0166fd6",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "const { body, validationResult } = require(&#x27;express-validator&#x27;); app.post(&#x27;/register&#x27;, [ body(&#x27;email&#x27;).isEmail().normalizeEmail().withMessage(&#x27;Invalid email address&#x27;), body(&#x27;password&#x27;).isLength({ min: 8 }).withMessage(&#x27;Password must be at least 8 characters long&#x27;), body(&#x27;age&#x27;).isInt({ min: 18 }).withMessage(&#x27;Age must be a number and at least 18&#x27;) ], (req, res) =&gt; { const errors = validationResult(req); if (!errors.isEmpty()) { return res.status(400).json({ errors: errors.array() }); } // Proceed with registration logic });",
+        "page_age": "2024-06-05T11:18:02",
+        "profile": {
+          "name": "Medium",
+          "url": "https://medium.com/codex/securing-your-backend-api-a-comprehensive-guide-9bf5e0166fd6",
+          "long_name": "medium.com",
+          "img": "https://imgs.search.brave.com/4R4hFITz_F_be0roUiWbTZKhsywr3fnLTMTkFL5HFow/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTZhYmQ1N2Q4/NDg4ZDcyODIyMDZi/MzFmOWNhNjE3Y2E4/Y2YzMThjNjljNDIx/ZjllZmNhYTcwODhl/YTcwNDEzYy9tZWRp/dW0uY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "medium.com",
+          "hostname": "medium.com",
+          "favicon": "https://imgs.search.brave.com/4R4hFITz_F_be0roUiWbTZKhsywr3fnLTMTkFL5HFow/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTZhYmQ1N2Q4/NDg4ZDcyODIyMDZi/MzFmOWNhNjE3Y2E4/Y2YzMThjNjljNDIx/ZjllZmNhYTcwODhl/YTcwNDEzYy9tZWRp/dW0uY29tLw",
+          "path": "› codex  › securing-your-backend-api-a-comprehensive-guide-9bf5e0166fd6"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/B_gWCQjo3TnsKDkxR-1WPGDMJQNURg9zaHMcWRQDsds/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v",
+          "original": "https://miro.medium.com/",
+          "logo": false
+        },
+        "age": "June 5, 2024",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Suneel Kumar",
+              "url": "https://medium.com/@techsuneel99"
+            }
+          ],
+          "date": "Mar 12, 2024",
+          "publisher": {
+            "type": "organization",
+            "name": "CodeX",
+            "url": "https://medium.com/codex",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/2oS4gizLjFZ853E0acR6gcdGrcbIHF0BjUQ2Gxu0DJM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvcmVzaXplOmZp/dDoxMDAwLzElMkFW/cUgwYk9yZmplVWt6/bnBoSUM3S0JnLnBu/Zw",
+              "original": "https://miro.medium.com/v2/resize:fit:1000/1%2AVqH0bOrfjeUkznphIC7KBg.png"
+            }
+          },
+          "isAccessibleForFree": true
+        },
+        "extra_snippets": [
+          "“” is published by Suneel Kumar in CodeX.",
+          "In this example, we use the body validator from express-validator to validate the email, password, and age fields in the request body.",
+          "const { body, validationResult } = require('express-validator'); app.post('/register', [ body('email').isEmail().normalizeEmail().withMessage('Invalid email address'), body('password').isLength({ min: 8 }).withMessage('Password must be at least 8 characters long'), body('age').isInt({ min: 18 }).withMessage('Age must be a number and at least 18') ], (req, res) => { const errors = validationResult(req); if (!errors.isEmpty()) { return res.status(400).json({ errors: errors.array() }); } // Proceed with registration logic });",
+          "const { body, validationResult } = require('express-validator'); app.post('/comment', [ body('content').trim().escape().withMessage('Comment content contains malicious input') ], (req, res) => { const errors = validationResult(req); if (!errors.isEmpty()) { return res.status(400).json({ errors: errors.array() }); } // Proceed with comment creation logic });"
+        ]
+      },
+      {
+        "title": "Modify API Request Body in Chrome, Firefox, Android & iOS",
+        "url": "https://requestly.com/blog/how-to-modify-the-api-request-body/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "In the desktop app, the network traffic table will highlight the row as green for the request whose body has been modified using the rule created above. Requestly Desktop App can override API request body for browsers, android apps, mobile apps, mobile browsers, or even requests sent via terminal.",
+        "page_age": "2026-04-02T11:32:25",
+        "profile": {
+          "name": "Requestly",
+          "url": "https://requestly.com/blog/how-to-modify-the-api-request-body/",
+          "long_name": "requestly.com",
+          "img": "https://imgs.search.brave.com/kqHsBbuSnR4kP9tBL3pRBvKvGnF-O7p5Ib6_xkUnBx0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDY1MDI3ZjIz/ODMyMWY4YjBiNzE4/ZTA1OWE5MzI2Yjlk/YTRlM2NiMGFlMTUy/NzljNDNiMTljNjMz/Y2IzNjgwOS9yZXF1/ZXN0bHkuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "requestly.com",
+          "hostname": "requestly.com",
+          "favicon": "https://imgs.search.brave.com/kqHsBbuSnR4kP9tBL3pRBvKvGnF-O7p5Ib6_xkUnBx0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDY1MDI3ZjIz/ODMyMWY4YjBiNzE4/ZTA1OWE5MzI2Yjlk/YTRlM2NiMGFlMTUy/NzljNDNiMTljNjMz/Y2IzNjgwOS9yZXF1/ZXN0bHkuY29tLw",
+          "path": "  › home  › mobile development  › android development  › modify api request body in chrome, firefox, android & ios"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/dWbi8Snr5bdWZJENqDrlfAN2LteQta9N5X71WxrQk3c/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXF1/ZXN0bHkuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIzLzA3/L01vZGlmeS1yZXF1/ZXN0LWJvZHktMS5w/bmc",
+          "original": "https://requestly.com/wp-content/uploads/2023/07/Modify-request-body-1.png",
+          "logo": false
+        },
+        "age": "April 2, 2026",
+        "organization": {
+          "type": "organization",
+          "name": "RQ Labs Inc.",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "Although the Requestly Browser extension can be used to modify an API’s request body, it is recommended to install the desktop application, as it can work for HTTP(s) requests originating from any application, like browsers, mobile apps, or even terminals. Download and install the Requestly desktop application. Open the app, and click Connect Apps. Choose the browser and open the website agoda.com. Search for the request /GetTopDestinations in the Inspect Traffic table in the Requestly app. Right-click on the request and select Modify Request Body. Modify the request body as desired. Click Create Rule button to save the rule.",
+          "In the desktop app, the network traffic table will highlight the row as green for the request whose body has been modified using the rule created above. Requestly Desktop App can override API request body for browsers, android apps, mobile apps, mobile browsers, or even requests sent via terminal.",
+          "For front-end developers, modifying how API requests are invoked from the application in runtime is almost impossible once the web application is deployed and running.",
+          "There are multiple ways to validate when a rule is successfully applied on a page."
+        ]
+      },
+      {
+        "title": "Online API Testing Tool | Test Your API Online",
+        "url": "https://reqbin.com/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "API testing is a set of quality assurance actions that include making calls to an API endpoint, getting API responses, and validating API status codes, response times, and data against predefined rules.",
+        "profile": {
+          "name": "ReqBin",
+          "url": "https://reqbin.com/",
+          "long_name": "reqbin.com",
+          "img": "https://imgs.search.brave.com/puaaGnbOCpPViVP_deBkTKbtYEJM0oADiMT5AE8SSgE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDFiNzNjNTVi/OTRkNmIwNjM5MWVh/NTA4N2FlNzNmM2Nj/ZjFmNTY4N2NjMDc3/ZjQ3NGU1ZDRiYWJi/OWMxNTczYi9yZXFi/aW4uY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reqbin.com",
+          "hostname": "reqbin.com",
+          "favicon": "https://imgs.search.brave.com/puaaGnbOCpPViVP_deBkTKbtYEJM0oADiMT5AE8SSgE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDFiNzNjNTVi/OTRkNmIwNjM5MWVh/NTA4N2FlNzNmM2Nj/ZjFmNTY4N2NjMDc3/ZjQ3NGU1ZDRiYWJi/OWMxNTczYi9yZXFi/aW4uY29tLw",
+          "path": ""
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/oDcSJzivyplL-NEOyAi5Pv-W-blj0m9sHlJzKqsr75c/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXFi/aW4uY29tL3N0YXRp/Yy9pbWcvbG9nbzk2/LnBuZw",
+          "original": "https://reqbin.com/static/img/logo96.png",
+          "logo": true
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "ReqBin",
+              "url": "https://reqbin.com/about",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/oTaXS8X9OZjG64CYSdvhdN_3tBHwflfLgG1UxMU1nSE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXFi/aW4uY29tL3N0YXRp/Yy9pbWcvcmVxYmlu/LnBuZw",
+                "original": "https://reqbin.com/static/img/reqbin.png"
+              }
+            }
+          ]
+        },
+        "extra_snippets": [
+          "It's free: ReqBin Online API Tester is free to use. You can start running requests for free right now, at no additional cost.",
+          "API testing is a set of quality assurance actions that include making calls to an API endpoint, getting API responses, and validating API status codes, response times, and data against predefined rules.",
+          "3. If your API server requires authorization, enter your credentials in the Authorization tab. 4. Click Send to submit your API request, check the returned API status code, response time, and content. 5. Re-run the API tests by changing the API endpoint URL, HTTP method, and request data."
+        ]
+      },
+      {
+        "title": "How to ensure REST API security",
+        "url": "https://www.invicti.com/blog/web-security/rest-api-web-service-security",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This means carefully specifying permitted types in the Content-Type and Accept headers, along with the charset (where possible). If the service includes JavaScript or other script code, you need to set the same content type in the header and the request body, for example application/javascript.",
+        "profile": {
+          "name": "Invicti",
+          "url": "https://www.invicti.com/blog/web-security/rest-api-web-service-security",
+          "long_name": "invicti.com",
+          "img": "https://imgs.search.brave.com/ePnQb_MnuZsrZ9neCrYeI4hACILL5waHrMuHpGs-1ek/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTA0NzAzNzc4/NmM0YTNkYjE0MTY4/ZGQ2NWE3NGYzOGQz/MTQ0M2ZmMWI2ODNl/ZWFjYjJjMDdjZTIx/N2ZlYThiYS93d3cu/aW52aWN0aS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "invicti.com",
+          "hostname": "www.invicti.com",
+          "favicon": "https://imgs.search.brave.com/ePnQb_MnuZsrZ9neCrYeI4hACILL5waHrMuHpGs-1ek/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTA0NzAzNzc4/NmM0YTNkYjE0MTY4/ZGQ2NWE3NGYzOGQz/MTQ0M2ZmMWI2ODNl/ZWFjYjJjMDdjZTIx/N2ZlYThiYS93d3cu/aW52aWN0aS5jb20v",
+          "path": "› blog  › web-security  › rest-api-web-service-security"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/V9jYD9gVy_VkJhhGoBsUN7Z-qBZs2IyMGMydMtM59bA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/OGE0NTUyYWRmNGE0/NjBhZGU1M2NhMzgv/NjkzOTkxZGFlNjA3/YmMwNzM2MmZmMTY4/XzY4ZDY3ZTYxNGMz/YTkwNTdjNTAwYmZm/M19OUy1OZXctUmVs/ZWFzZTIud2VicA",
+          "original": "https://cdn.prod.website-files.com/68a4552adf4a460ade53ca38/693991dae607bc07362ff168_68d67e614c3a9057c500bff3_NS-New-Release2.webp",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Prevent abuse by implementing rate limiting, throttling, IP whitelisting, and API gateway rules to block malicious behavior.",
+          "If included directly in URLs, these details could be stored in web server logs and leaked if the logs are obtained by cybercriminals. To avoid leaking confidential information, RESTful web services should always send it in HTTP request headers or in the request body (for POST and PUT requests).",
+          "This means carefully specifying permitted types in the Content-Type and Accept headers, along with the charset (where possible). If the service includes JavaScript or other script code, you need to set the same content type in the header and the request body, for example application/javascript."
+        ]
+      },
+      {
+        "title": "dart - how can i check request , body in retrofit flutter api calls - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/72519279/how-can-i-check-request-body-in-retrofit-flutter-api-calls",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "I have tried retrofit for app call in flutter application but I couldn&#x27;t find a way to log baseapi+route with the request body. thanks in advance,",
+        "profile": {
+          "name": "Stack Overflow",
+          "url": "https://stackoverflow.com/questions/72519279/how-can-i-check-request-body-in-retrofit-flutter-api-calls",
+          "long_name": "stackoverflow.com",
+          "img": "https://imgs.search.brave.com/4WRMec_wn8Q9LO6DI43kkBvIL6wD5TYCXztC9C9kEI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWU3Zjg0ZjA1/YjQ3ZTlkNjQ1ODA1/MjAwODhiNjhjYWU0/OTc4MjM4ZDJlMTBi/ODExYmNiNTkzMjdh/YjM3MGExMS9zdGFj/a292ZXJmbG93LmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "qa",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "stackoverflow.com",
+          "hostname": "stackoverflow.com",
+          "favicon": "https://imgs.search.brave.com/4WRMec_wn8Q9LO6DI43kkBvIL6wD5TYCXztC9C9kEI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWU3Zjg0ZjA1/YjQ3ZTlkNjQ1ODA1/MjAwODhiNjhjYWU0/OTc4MjM4ZDJlMTBi/ODExYmNiNTkzMjdh/YjM3MGExMS9zdGFj/a292ZXJmbG93LmNv/bS8",
+          "path": "› questions  › 72519279  › how-can-i-check-request-body-in-retrofit-flutter-api-calls"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/7xYts7jy_f89pn-IFVr8VxO1jMDhot5Ln0Buo0It8EM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGFj/a292ZXJmbG93LmNv/bS9Db250ZW50L1Np/dGVzL3N0YWNrb3Zl/cmZsb3cvSW1nL2Fw/cGxlLXRvdWNoLWlj/b25AMi5wbmc_dj03/M2Q3OWE4OWJkZWQ",
+          "original": "https://stackoverflow.com/Content/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+          "logo": true
+        },
+        "qa": {
+          "question": "how can i check request , body in retrofit flutter api calls",
+          "answer": {
+            "text": "<p>Since retrofit is the dio client generator, you could use the Prett Dio Logger in the Dio interceptor to view the request, response and both.</p>",
+            "author": "Sujan Gainju",
+            "upvoteCount": 1
+          }
+        }
+      },
+      {
+        "title": "How to modify the API request body in Chrome, Firefox, Android & iOS apps? | by Sagar Soni | Requestly | Medium",
+        "url": "https://medium.com/requestly/how-to-modify-the-api-request-body-in-chrome-firefox-android-ios-apps-5759193f8936",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "In the desktop app, the network traffic table will highlight the row as green for the request whose body has been modified using the rule created above. Requestly Desktop App can override API request body for browsers, android apps, mobile apps, mobile browsers, or even requests sent via terminal.",
+        "page_age": "2024-03-14T11:15:59",
+        "profile": {
+          "name": "Medium",
+          "url": "https://medium.com/requestly/how-to-modify-the-api-request-body-in-chrome-firefox-android-ios-apps-5759193f8936",
+          "long_name": "medium.com",
+          "img": "https://imgs.search.brave.com/4R4hFITz_F_be0roUiWbTZKhsywr3fnLTMTkFL5HFow/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTZhYmQ1N2Q4/NDg4ZDcyODIyMDZi/MzFmOWNhNjE3Y2E4/Y2YzMThjNjljNDIx/ZjllZmNhYTcwODhl/YTcwNDEzYy9tZWRp/dW0uY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "medium.com",
+          "hostname": "medium.com",
+          "favicon": "https://imgs.search.brave.com/4R4hFITz_F_be0roUiWbTZKhsywr3fnLTMTkFL5HFow/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTZhYmQ1N2Q4/NDg4ZDcyODIyMDZi/MzFmOWNhNjE3Y2E4/Y2YzMThjNjljNDIx/ZjllZmNhYTcwODhl/YTcwNDEzYy9tZWRp/dW0uY29tLw",
+          "path": "› requestly  › how-to-modify-the-api-request-body-in-chrome-firefox-android-ios-apps-5759193f8936"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/nXDoeZVXQftDh0KU2Z4PDcS79LI4I3nSqGtnrxEK9vQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/MSpBZlpQSHhXMjhm/ZUpPazlQWU9jcjZn/LnBuZw",
+          "original": "https://miro.medium.com/1*AfZPHxW28feJOk9PYOcr6g.png",
+          "logo": false
+        },
+        "age": "March 14, 2024",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Sagar Soni",
+              "url": "https://medium.com/@requestly"
+            }
+          ],
+          "date": "Jul 13, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "Requestly",
+            "url": "https://medium.com/requestly",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/SWrlaaooDOkl0wwjJ37f6SUx_EN1E-ME5366Sv4i8pw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvcmVzaXplOmZp/dDoxNjAwLzElMkFv/M1lUN0dFZzd1NGZr/V0JjTzJETUZBLnBu/Zw",
+              "original": "https://miro.medium.com/v2/resize:fit:1600/1%2Ao3YT7GEg7u4fkWBcO2DMFA.png"
+            }
+          },
+          "isAccessibleForFree": true
+        },
+        "extra_snippets": [
+          "How to modify the API request body in Chrome, Firefox, Android & iOS apps? In web applications, API requests are commonly used to exchange data with the server and dynamically update parts of the …",
+          "Although the Requestly Browser extension can be used to modify an API’s request body, it is recommended to install the desktop application, as it can work for HTTP(s) requests originating from any application, like browsers, mobile apps, or even terminals. Download and install the desktop application from https://requestly.com. Open the app, and click Connect Apps. Choose the browser and open the website agoda.com. Search for the request /GetTopDestinations in the Inspect Traffic table in the Requestly app. Right-click on the request and select Modify Request Body. Modify the request body as desired. Click Create Rule button to save the rule.",
+          "In the desktop app, the network traffic table will highlight the row as green for the request whose body has been modified using the rule created above. Requestly Desktop App can override API request body for browsers, android apps, mobile apps, mobile browsers, or even requests sent via terminal.",
+          "Setup redirects, modify headers, query params, switch hosts, insert user scripts and much more by configuring rules in your browser with Requestly."
+        ]
+      },
+      {
+        "title": "How to check the Request body in Expose REST API | OutSystems",
+        "url": "https://www.outsystems.com/forums/discussion/95013/how-to-check-the-request-body-in-expose-rest-api/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "I&#x27;m exposing a REST API. In POST method,How to check if the Request body is not empty and also how to check whether the user is passing correct attribute name in the request body · for checking if a request is empty you can add some logic to an OnRequest handler of your REST API.",
+        "page_age": "2024-02-22T00:00:00",
+        "profile": {
+          "name": "OutSystems",
+          "url": "https://www.outsystems.com/forums/discussion/95013/how-to-check-the-request-body-in-expose-rest-api/",
+          "long_name": "outsystems.com",
+          "img": "https://imgs.search.brave.com/OFvo8NldJCWqi3m86GYI-ofSfIVgdJun8pOvxuzKKaM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGQxMTc4MDky/MjBkZTI1OGZiZmMz/YzEyNDE2ZmMzYzU5/OGJiMTgxYmE4NmFm/MGZmYTY1ZjZmMWYy/YTU3NDNkMi93d3cu/b3V0c3lzdGVtcy5j/b20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "outsystems.com",
+          "hostname": "www.outsystems.com",
+          "favicon": "https://imgs.search.brave.com/OFvo8NldJCWqi3m86GYI-ofSfIVgdJun8pOvxuzKKaM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGQxMTc4MDky/MjBkZTI1OGZiZmMz/YzEyNDE2ZmMzYzU5/OGJiMTgxYmE4NmFm/MGZmYTY1ZjZmMWYy/YTU3NDNkMi93d3cu/b3V0c3lzdGVtcy5j/b20v",
+          "path": "› forums  › discussion  › 95013  › how-to-check-the-request-body-in-expose-rest-api"
+        },
+        "age": "February 22, 2024",
+        "extra_snippets": [
+          "How to check the Request body in Expose REST API"
+        ]
+      },
+      {
+        "title": "REST API Security Best Practices: How to Secure REST APIs",
+        "url": "https://www.stackhawk.com/blog/rest-api-security-best-practices/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Then, you also need to think about request body validation, where you’ll check data types, formats, lengths, and business rules.",
+        "page_age": "2026-02-24T23:20:47",
+        "profile": {
+          "name": "StackHawk",
+          "url": "https://www.stackhawk.com/blog/rest-api-security-best-practices/",
+          "long_name": "stackhawk.com",
+          "img": "https://imgs.search.brave.com/8ToOJaLYsanKebzhRd81ez90Q7pKKk1tUgDkOFo1LBQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzAzNDJlNzg0/MzVkYTIwMmI5M2Fl/NTUzNDIwZGY5MTk1/ZTMxNmZlYjdiOTE2/NjY4MzcxZTNiMDEz/NWQyMmZhYS93d3cu/c3RhY2toYXdrLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "stackhawk.com",
+          "hostname": "www.stackhawk.com",
+          "favicon": "https://imgs.search.brave.com/8ToOJaLYsanKebzhRd81ez90Q7pKKk1tUgDkOFo1LBQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzAzNDJlNzg0/MzVkYTIwMmI5M2Fl/NTUzNDIwZGY5MTk1/ZTMxNmZlYjdiOTE2/NjY4MzcxZTNiMDEz/NWQyMmZhYS93d3cu/c3RhY2toYXdrLmNv/bS8",
+          "path": "  › stackhawk, inc.  › api security testing  › rest api security best practices: how to secure rest apis"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/JRRpX4IJcz6MQpQpYQxN9vHtq71rZJQ87uwM8MBeqAQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c3RhY2toYXdrLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wMS9ibXF4MXFi/bXlwOC5qcGc",
+          "original": "https://www.stackhawk.com/wp-content/uploads/2026/01/bmqx1qbmyp8.jpg",
+          "logo": false
+        },
+        "age": "February 24, 2026",
+        "video": {
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/hKZmaY08nO05H_fkrIfLqoxWMFZ4AeiEimgF8OjPlDY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c3RhY2toYXdrLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NS8wNS9UZW1wbGF0/ZS1UZWNoaW5jYWwt/R3VpZGVzLU9uZS1T/cXVhcmUtMjkuc3Zn",
+            "original": "https://www.stackhawk.com/wp-content/uploads/2025/05/Template-Techincal-Guides-One-Square-29.svg"
+          }
+        },
+        "organization": {
+          "type": "organization",
+          "name": "StackHawk, Inc.",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "Then, you also need to think about request body validation, where you’ll check data types, formats, lengths, and business rules.",
+          "Application-level security won’t help if your infrastructure is vulnerable. Your infrastructure is your foundation. It doesn’t matter how strong your walls are if the foundation is crumbling. A comprehensive infrastructure security strategy addresses both the systems running your APIs and the environment they operate in.",
+          "Codex CLI lives in your terminal and works alongside the tools that developers already use. Like other terminal-based agents, you simply point it at a directory, and OpenAI's coding agent reads, changes, and runs the code inside it. The features it finishes pile up quickly.",
+          "Claude Code can build an entire feature while you're still reading the ticket. Checking that feature for security holes is now the slowest part of shipping, and it's the step most of us quietly postpone. This guide is about making Claude run DAST against your live, running app...."
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}

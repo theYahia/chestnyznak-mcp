@@ -1,0 +1,899 @@
+{
+  "type": "search",
+  "query": {
+    "original": "честный знак API ownerInn producerInn brand response fields",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Описание True API",
+        "url": "https://docs.crpt.ru/gismt/True_API/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Читать как: параметр «results» содержит параметры «ownerInn» и «children», а «children» содержит параметр «brand».",
+        "profile": {
+          "name": "Crpt",
+          "url": "https://docs.crpt.ru/gismt/True_API/",
+          "long_name": "docs.crpt.ru",
+          "img": "https://imgs.search.brave.com/QUXZ7x8OdZyvrJ6oqtkWJGoWZ4lx4BpYjNZXVEc4vjs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjJjYWI0NTM2/Zjg0ZWQ1OGZhZDJk/MzA0MTAxNjllODc0/YWI3OWY1Y2ZjZTE0/ODgwMmZlMjM1NTE2/OTQ4ODY5MS9kb2Nz/LmNycHQucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "docs.crpt.ru",
+          "hostname": "docs.crpt.ru",
+          "favicon": "https://imgs.search.brave.com/QUXZ7x8OdZyvrJ6oqtkWJGoWZ4lx4BpYjNZXVEc4vjs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjJjYWI0NTM2/Zjg0ZWQ1OGZhZDJk/MzA0MTAxNjllODc0/YWI3OWY1Y2ZjZTE0/ODgwMmZlMjM1NTE2/OTQ4ODY5MS9kb2Nz/LmNycHQucnUv",
+          "path": "› gismt  › True_API"
+        },
+        "extra_snippets": [
+          "Читать как: параметр «results» содержит параметры «ownerInn» и «children», а «children» содержит параметр «brand».",
+          "8.3.13. Получение сведений по товарам и их владельцам, которые используют зарегистрированные товарные знаки",
+          "8.7.14. Метод получения CSV по товарам и их владельцам, которые используют зарегистрированные товарные знаки"
+        ]
+      },
+      {
+        "title": "Как получить данные по API для /cises/short/list | Официальный сайт сообщества маркировки «Честный знак»",
+        "url": "https://markirovka.ru/community/developers/kak-poluchit-dannye-po-api-dlya-cises-short-list",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "{«code»:0,«description»:«ok»,«codes»:[{«cis»:«0104610011500145215cGg&#x27;p?wxQT!R»,«valid»:true,«printView»:«0104610011500145215cGg&#x27;p?wxQT!R»,«gtin»:«04610011500145»,«groupIds»:[13],«verified»:false,«message»:«AI 91 for [0104610011500145215cGg&#x27;p?wxQT!R] is invalid»,«found»:true,«realizable»:true,«utilised»:true,«isBlocked»:false,«expireDate»:«2026-01-18T00:00:00.000Z»,«productionDate»:«2025-01-16T15:55:52.441Z»,«isOwner»:true,«errorCode»:7,«isTracking»:false,«sold»:false,«packageType»:«GROUP»,«producerInn»:«7701215046»,«grayZone»:false}],«reqId»:«171eb326-112f-4f50-b57e-8c1c511f87fd»,«reqTimestamp»:1740736976397}",
+        "profile": {
+          "name": "Markirovka",
+          "url": "https://markirovka.ru/community/developers/kak-poluchit-dannye-po-api-dlya-cises-short-list",
+          "long_name": "markirovka.ru",
+          "img": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "markirovka.ru",
+          "hostname": "markirovka.ru",
+          "favicon": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw",
+          "path": "› community  › developers  › kak-poluchit-dannye-po-api-dlya-cises-short-list"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/IPJ48cI0Y8wjdrGUj8st4q1tssJg0WLldQemiu_xyiA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tYXJr/aXJvdmthLnJ1L3Vw/bG9hZC9jb3Zlci5w/bmc",
+          "original": "https://markirovka.ru/upload/cover.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Для получения информации из честного знака по API использую описание «Описание True API Версия 338.0» В котором… 5.1.7. Методы верификации кодов маркировки с крипточастью 5.1.7.1. Метод верификации кодов…",
+          "{«code»:0,«description»:«ok»,«codes»:[{«cis»:«0104610011500145215cGg'p?wxQT!R»,«valid»:true,«printView»:«0104610011500145215cGg'p?wxQT!R»,«gtin»:«04610011500145»,«groupIds»:[13],«verified»:false,«message»:«AI 91 for [0104610011500145215cGg'p?wxQT!R] is invalid»,«found»:true,«realizable»:true,«utilised»:true,«isBlocked»:false,«expireDate»:«2026-01-18T00:00:00.000Z»,«productionDate»:«2025-01-16T15:55:52.441Z»,«isOwner»:true,«errorCode»:7,«isTracking»:false,«sold»:false,«packageType»:«GROUP»,«producerInn»:«7701215046»,«grayZone»:false}],«reqId»:«171eb326-112f-4f50-b57e-8c1c511f87fd»,«reqTimestamp»:1740736976397}"
+        ]
+      },
+      {
+        "title": "Есть ли какое-то rest api для получения информации о товаре? | Официальный сайт сообщества маркировки «Честный знак»",
+        "url": "https://markirovka.ru/community/developers/est-li-kakoe-to-rest-api-dlya-polucheniya-informatsii-o-tovare--90",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Не совсем ясен ответ: «В данном случае информацию по кодам маркировки из РБ рекомендуем проверять в Электронном Знаке». Т.е. ситуацию, когда «Честный Знак» не дает данные по таким маркировкам мы считаем нормой, и можно в ЧС даже не пытаться проверять?",
+        "profile": {
+          "name": "Markirovka",
+          "url": "https://markirovka.ru/community/developers/est-li-kakoe-to-rest-api-dlya-polucheniya-informatsii-o-tovare--90",
+          "long_name": "markirovka.ru",
+          "img": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "markirovka.ru",
+          "hostname": "markirovka.ru",
+          "favicon": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw",
+          "path": "› community  › developers  › est-li-kakoe-to-rest-api-dlya-polucheniya-informatsii-o-tovare--90"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/IPJ48cI0Y8wjdrGUj8st4q1tssJg0WLldQemiu_xyiA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tYXJr/aXJvdmthLnJ1L3Vw/bG9hZC9jb3Zlci5w/bmc",
+          "original": "https://markirovka.ru/upload/cover.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Подскажите, пожалуйста, есть rest api для получения информации о сроке годности продукта по qr коду? Хочу сделать приложение, которое сканирует товар и говорит пользователю о его сроке…",
+          "Не совсем ясен ответ: «В данном случае информацию по кодам маркировки из РБ рекомендуем проверять в Электронном Знаке». Т.е. ситуацию, когда «Честный Знак» не дает данные по таким маркировкам мы считаем нормой, и можно в ЧС даже не пытаться проверять?",
+          "Сообщество Маркировки, дайте пожалуйста точную ссылку на описание всех методов апи честного знака.",
+          "Есть ли у апи Честный знак классический свагер как у других апи?"
+        ]
+      },
+      {
+        "title": "Работа с API в «Честном Знаке» | SelSup - центр управления торговли на маркетплейсах на базе ИИ. Управление продажами на Wildberries, Ozon, ЯндексМаркет, СберМегаМаркет, AliExpress и других",
+        "url": "https://selsup.ru/blog/rabota-s-api-v-chestnogo-znake/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Она рекомендует категории, значения параметров. Можно создавать карточки даже из 1С, а также в Честном знаке (автоматом получаем “честный штрихкод”).",
+        "page_age": "2025-05-23T23:45:52",
+        "profile": {
+          "name": "SelSup",
+          "url": "https://selsup.ru/blog/rabota-s-api-v-chestnogo-znake/",
+          "long_name": "selsup.ru",
+          "img": "https://imgs.search.brave.com/IezsruEU_CSXVak4-rPRw5FvA6cu2pri7tkMrj0dw2I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjcyNzk3YTVk/YmU1ODBmYzA3YTZh/Y2VhNzcyZDdmN2E4/ZTRlMDQxYzM4ZmMz/YzYzOGQ3Y2Q1MjVi/MTBkYzRlMC9zZWxz/dXAucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "selsup.ru",
+          "hostname": "selsup.ru",
+          "favicon": "https://imgs.search.brave.com/IezsruEU_CSXVak4-rPRw5FvA6cu2pri7tkMrj0dw2I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjcyNzk3YTVk/YmU1ODBmYzA3YTZh/Y2VhNzcyZDdmN2E4/ZTRlMDQxYzM4ZmMz/YzYzOGQ3Y2Q1MjVi/MTBkYzRlMC9zZWxz/dXAucnUv",
+          "path": "  › главная страница  › работа с api в «честном знаке»"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/UkKapqTHt4hornW18nM5_aLricBTxqZCoftZR3HJm1s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zZWxz/dXAucnUvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjUvMDUvaW1n/LWJnLTEucG5n",
+          "original": "https://selsup.ru/wp-content/uploads/2025/05/img-bg-1.png",
+          "logo": false
+        },
+        "age": "May 23, 2025",
+        "organization": {
+          "type": "organization",
+          "name": "ООО СЕЛСАП",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "Работа с API в «Честном Знаке» - SelSup Программа для управления бизнес-процессами на маркетплейсах. Аналитика, управление ценами, контроль финансов, обработка заказов по FBS и FBO: быстрая сборка, генерация штрихкодов, маркировка товаров \"Честный знак\", печать этикеток, обновление остатков и многое другое",
+          "Это мы можем увидеть по полученному ответу и массиву «signed» (см. рис 9). Также статус карточки можно увидеть в web-интерфейсе системы маркировки «Честный знак»",
+          "Она рекомендует категории, значения параметров. Можно создавать карточки даже из 1С, а также в Честном знаке (автоматом получаем “честный штрихкод”).",
+          "SelSup — официальный партнер маркетплейсов и системы «Честный знак». Программа получает быстрые обновления при изменении условий работы селлеров с площадками, что гарантирует отсутствие скрытых расходов для продавцов."
+        ]
+      },
+      {
+        "title": "Как подключиться к API продуктивного контура | Официальный сайт сообщества маркировки «Честный знак»",
+        "url": "https://markirovka.ru/knowledge/lekarstva/api-mdlp/kak-podklyuchitsya-k-api-produktivnogo-kontura",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Для первого подключения товароучетной системы к API системы маркировки Честный Знак для лекарственных препаратов необходимо добавить учетную систему.",
+        "profile": {
+          "name": "Markirovka",
+          "url": "https://markirovka.ru/knowledge/lekarstva/api-mdlp/kak-podklyuchitsya-k-api-produktivnogo-kontura",
+          "long_name": "markirovka.ru",
+          "img": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "markirovka.ru",
+          "hostname": "markirovka.ru",
+          "favicon": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw",
+          "path": "› knowledge  › lekarstva  › api-mdlp  › kak-podklyuchitsya-k-api-produktivnogo-kontura"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/IPJ48cI0Y8wjdrGUj8st4q1tssJg0WLldQemiu_xyiA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tYXJr/aXJvdmthLnJ1L3Vw/bG9hZC9jb3Zlci5w/bmc",
+          "original": "https://markirovka.ru/upload/cover.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "5. Учетная система зарегистрирована. Для возврата в меню системы маркировки Честный Знак необходимо закрыть информационное окно.",
+          "Далее необходимо воспользоваться методом аутентификации из раздела 6.2.1. \"Метод для получения кода аутентификации\" согласно документу \"Описание API Государственной информационной системы мониторинга и движения лекарственных препаратов\", который доступен в разделе \"Помощь\" личного кабинета системы маркировки Честный Знак для лекарственных препаратов.",
+          "Как осуществляется интеграция товароучетных систем с системой маркировки Честный Знак для лекарственных препаратов?",
+          "Возможно ли получить информацию о вложенности SSCC в ЛК системы маркировки Честный знак для лекарственных препаратов методами API?"
+        ]
+      },
+      {
+        "title": "Методические рекомендации",
+        "url": "https://crystals.ru/upload/docs/webinar-6-11-24/recommendacii_crpt.pdf",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "• указано, что параметр ответа producerInn этого метода не будет возвращаться для",
+        "profile": {
+          "name": "Crystals",
+          "url": "https://crystals.ru/upload/docs/webinar-6-11-24/recommendacii_crpt.pdf",
+          "long_name": "crystals.ru",
+          "img": "https://imgs.search.brave.com/0s04jEU4ROfNxTeA5KHxxbaUlZem0LIiJMHowE8p_j8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2NlZGJlMTk2/OGVhZTFkODQ5NDg4/OTI4ZWMwMmQ2YjEx/ODI0YWU3N2MwNGNj/YTQzNmJhYjVjMTVk/MWQwMjc0My9jcnlz/dGFscy5ydS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "crystals.ru",
+          "hostname": "crystals.ru",
+          "favicon": "https://imgs.search.brave.com/0s04jEU4ROfNxTeA5KHxxbaUlZem0LIiJMHowE8p_j8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2NlZGJlMTk2/OGVhZTFkODQ5NDg4/OTI4ZWMwMmQ2YjEx/ODI0YWU3N2MwNGNj/YTQzNmJhYjVjMTVk/MWQwMjc0My9jcnlz/dGFscy5ydS8",
+          "path": "› upload  › docs  › webinar-6-11-24  › recommendacii_crpt.pdf"
+        },
+        "content_type": "pdf",
+        "extra_snippets": [
+          "Оператором – «Локальный модуль «Честный ЗНАК» (далее – ЛМ ЧЗ)",
+          "• указано, что параметр ответа producerInn этого метода не будет возвращаться для"
+        ]
+      },
+      {
+        "title": "Запрос кодов маркировки товаров через API Честный знак (Система маркировки товаров) по заданным фильтрам и списание",
+        "url": "https://infostart.ru/1c/tools/1923573/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Используется POST метод API Честного знака /cises/search из документации &quot;Описание True API&quot; (Версия 331.0), актуальной на август 2023 г. Этот метод не ...",
+        "profile": {
+          "name": "Инфостарт",
+          "url": "https://infostart.ru/1c/tools/1923573/",
+          "long_name": "infostart.ru",
+          "img": "https://imgs.search.brave.com/risZ6GoSr9tqzk81rvK2pCrln14FQjeWdBygyBRJNX8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzdiOWY0NzVj/MzlkZGJmNTJmODM2/YWZiNTg0ZjZhNjMz/ZjUxOGE4N2I3M2Vm/Njk2YjZhZDc4MzFl/MzgzZGE4Mi9pbmZv/c3RhcnQucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "infostart.ru",
+          "hostname": "infostart.ru",
+          "favicon": "https://imgs.search.brave.com/risZ6GoSr9tqzk81rvK2pCrln14FQjeWdBygyBRJNX8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzdiOWY0NzVj/MzlkZGJmNTJmODM2/YWZiNTg0ZjZhNjMz/ZjUxOGE4N2I3M2Vm/Njk2YjZhZDc4MzFl/MzgzZGE4Mi9pbmZv/c3RhcnQucnUv",
+          "path": "› 1c  › tools  › 1923573"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/M01ym_XxfOAeLAjdw2j3amAfRaV4PCgID8yzIceI3Vw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbmZv/c3RhcnQucnUvdXBs/b2FkL2ltZy9sb2dv/MzAweDMwMC5qcGc",
+          "original": "https://infostart.ru/upload/img/logo300x300.jpg",
+          "logo": true
+        },
+        "article": {
+          "author": []
+        },
+        "extra_snippets": [
+          "Запрос кодов маркировки группы товаров за период. Используется POST метод API Честного знака /cises/search из документации \"Описание True API\" (Версия 331.0), актуальной на август 2023 г. Этот метод не планируется снимать с поддержки, поэтому он и был выбран за основу.",
+          "Подскажите, новенький совсем , не могу понять , честный знак не дает ответов.",
+          "За основу взята публикация //infostart.ru/public/1276725/. В ней рассмотрен пример обмена через API с Честным знаком с использованием электронной подписи.",
+          "В данной публикации сделан запрос кодов маркировки группы товаров \"Табачная продукция\" по периоду выпуска кодов (эмиссии). Информация по дате эмиссии отображена в личном кабинете честного знака в разделе \"Коды маркировки\"."
+        ]
+      },
+      {
+        "title": "Как работать с API Честного Знака ? - Страница 9 : Маркировка",
+        "url": "https://olegon.ru/showthread.php?t=38701&page=9",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Как работать с API Честного Знака ?-Маркировка-страница 9",
+        "profile": {
+          "name": "Проверка на ботов",
+          "url": "https://olegon.ru/showthread.php?t=38701&page=9",
+          "long_name": "olegon.ru",
+          "img": "https://imgs.search.brave.com/5Nbz8bSGgIGKr0l9eGFG-k8qIPHsCPuwbGBEEr0_3kE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDc5YzE1NzZj/YWNmODEyNDE3MTFj/NjEyYTI4Zjg0MmQz/NWQ3OWZjZWNkYTQx/MzkwZTU4NTNmZWFk/NjczMGZmZC9vbGVn/b24ucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "olegon.ru",
+          "hostname": "olegon.ru",
+          "favicon": "https://imgs.search.brave.com/5Nbz8bSGgIGKr0l9eGFG-k8qIPHsCPuwbGBEEr0_3kE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDc5YzE1NzZj/YWNmODEyNDE3MTFj/NjEyYTI4Zjg0MmQz/NWQ3OWZjZWNkYTQx/MzkwZTU4NTNmZWFk/NjczMGZmZC9vbGVn/b24ucnUv",
+          "path": "  › программы и оборудование для автоматизации торговли  › маркировка"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/i_eIo7jcox0pZtV9nqhVC8ygw_peikDqnDfSpQrfXnA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vbGVn/b24ucnUvYXBwbGUt/dG91Y2gtaWNvbi0x/NTJ4MTUyLnBuZw",
+          "original": "https://olegon.ru/apple-touch-icon-152x152.png",
+          "logo": true
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Andrew556"
+            }
+          ],
+          "date": "Feb 23, 2025"
+        },
+        "organization": {
+          "type": "organization",
+          "name": "Olegon",
+          "contact_points": []
+        }
+      },
+      {
+        "title": "Автоматизация «Честного знака»: API, статусы, остатки и контроль без ручной рутины",
+        "url": "https://totalcrm.ru/blog/2026/03/avtomatizaciya-%C2%ABchestnogo-znaka%C2%BB-api-statusy-ostatki-i-kontrol-bez-ruchnoj-rutiny_236",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "В этой статье мы разберём, как выстроить автоматизацию работы с «Честным знаком»: что дают API и документация, какие задачи реально автоматизируются (остатки, статусы, отчёты, инциденты), как организовать доступы и ключи, почему ручной подход ломается на росте и какие критерии выбрать для системной автоматизации без привязки к брендам.",
+        "profile": {
+          "name": "TotalCRM",
+          "url": "https://totalcrm.ru/blog/2026/03/avtomatizaciya-%C2%ABchestnogo-znaka%C2%BB-api-statusy-ostatki-i-kontrol-bez-ruchnoj-rutiny_236",
+          "long_name": "totalcrm.ru",
+          "img": "https://imgs.search.brave.com/Im-IulOQYw2s3Izq2D4NZvKPb4GypkJaxoN_9npbZ_g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzRiMGZkYzlh/NDAxNGIwYjRhMDEx/MjA0YTNmNjczOTc3/NTRjODRjZmYxZjQy/YzA5ZTlhODZkZWU1/OGE1ZjdjNC90b3Rh/bGNybS5ydS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "totalcrm.ru",
+          "hostname": "totalcrm.ru",
+          "favicon": "https://imgs.search.brave.com/Im-IulOQYw2s3Izq2D4NZvKPb4GypkJaxoN_9npbZ_g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzRiMGZkYzlh/NDAxNGIwYjRhMDEx/MjA0YTNmNjczOTc3/NTRjODRjZmYxZjQy/YzA5ZTlhODZkZWU1/OGE1ZjdjNC90b3Rh/bGNybS5ydS8",
+          "path": "  › главная  › статьи"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ViKgH37cnTQV6g8VK-dD2IrBa-7_LgJm1M5VC0rcx8s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90b3Rh/bGNybS5ydS9hc3Nl/dHMvd2ViL2NhY2hl/L3NpdGUvODMvODQv/ODM4NDIxOTA4ODE2/MTA5OGFlZGI5ZmEx/MTBhZDc1ZGUud2Vi/cA",
+          "original": "https://totalcrm.ru/assets/web/cache/site/83/84/8384219088161098aedb9fa110ad75de.webp",
+          "logo": false
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "TotalCRM",
+              "url": "https://totalcrm.ru",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/_WSy6TAizCNNbG0mw2yOLMUa7X5cD9BYBlbibz8_qq0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90b3Rh/bGNybS5ydS9yZXNv/dXJjZXMvcHVibGlj/L2ljb25zL2FuZHJv/aWQtY2hyb21lLTUx/Mng1MTIucG5n",
+                "original": "https://totalcrm.ru/resources/public/icons/android-chrome-512x512.png"
+              },
+              "email": "info@totalcrm.ru"
+            }
+          ],
+          "publisher": {
+            "type": "organization",
+            "name": "TotalCRM",
+            "url": "https://totalcrm.ru",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/_WSy6TAizCNNbG0mw2yOLMUa7X5cD9BYBlbibz8_qq0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90b3Rh/bGNybS5ydS9yZXNv/dXJjZXMvcHVibGlj/L2ljb25zL2FuZHJv/aWQtY2hyb21lLTUx/Mng1MTIucG5n",
+              "original": "https://totalcrm.ru/resources/public/icons/android-chrome-512x512.png"
+            }
+          }
+        },
+        "organization": {
+          "type": "organization",
+          "name": "Totalcrm",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "В этой статье мы разберём, как выстроить автоматизацию работы с «Честным знаком»: что дают API и документация, какие задачи реально автоматизируются (остатки, статусы, отчёты, инциденты), как организовать доступы и ключи, почему ручной подход ломается на росте и какие критерии выбрать для системной автоматизации без привязки к брендам.",
+          "В поиске это выглядит так: честный знак автоматизация, честный знак api, api честный знак, честный знак api документация, api честный знак документация, честный знак документация api, api key честный знак.",
+          "Честный знак api - это способ получать и передавать данные между системой маркировки и вашей системой учёта/управления.",
+          "Запросы api честный знак и апи честный знак обычно означают: бизнес хочет не \"заходить руками в кабинет\", а видеть статусы, остатки, отчёты и ошибки в одном месте."
+        ]
+      },
+      {
+        "title": "«Честный знак» в 2025 году: новые API, этапы маркировки и правила агрегации продуктов питания",
+        "url": "https://konstanta-it.ru/chestniy_znak_2025",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Новые требования к маркировке в системе «Честный знак» на 2025 год, сроки перехода на поштучный учет и практические решения по агрегации ...",
+        "profile": {
+          "name": "Konstanta-it",
+          "url": "https://konstanta-it.ru/chestniy_znak_2025",
+          "long_name": "konstanta-it.ru",
+          "img": "https://imgs.search.brave.com/vuihVlEG4uA3HqJY0DLnAaZC0HIM-kStCoOBJZu_qSM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDE0NzlkNDhk/MmJmYmI3OGE3OTM0/NTQzYzAyMmViOGI2/NmRkOGMwYzRkNGRl/MDZjMjc1ODdjM2Mx/NDU3NGNlNC9rb25z/dGFudGEtaXQucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "konstanta-it.ru",
+          "hostname": "konstanta-it.ru",
+          "favicon": "https://imgs.search.brave.com/vuihVlEG4uA3HqJY0DLnAaZC0HIM-kStCoOBJZu_qSM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDE0NzlkNDhk/MmJmYmI3OGE3OTM0/NTQzYzAyMmViOGI2/NmRkOGMwYzRkNGRl/MDZjMjc1ODdjM2Mx/NDU3NGNlNC9rb25z/dGFudGEtaXQucnUv",
+          "path": "› chestniy_znak_2025"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ekGgZLPOWfCxveO59GIOl1M11CNF-eBrxRArAr_yObU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudGlsZGFjZG4u/Y29tL3RpbGQzMjYx/LTY0MzItNDIzNy1h/NTMwLTMyMzUzMTMw/MzM2NS8xYzAyNDI0/OC01NTNhLTQ4MTYt/Yi5wbmc",
+          "original": "https://static.tildacdn.com/tild3261-6432-4237-a530-323531303365/1c024248-553a-4816-b.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Новые требования к маркировке в системе «Честный знак» на 2025 год, сроки перехода на поштучный учет и практические решения по агрегации для производителей пищевой продукции.",
+          "Самое сложное в переходе на «Честный знак» для пищевых предприятий — это не промаркировать каждую единицу продукции, а при переходе на поэкземплярный учет настроить на своём складе агрегацию так, чтобы вся цепочка с маркировкой «товар — коробка — палета» не распадалась при отгрузке товара.",
+          "Выгрузили товар, передали коды, товар пробился на кассе. Если коды спутались по пути от склада до магазина, «Честный знак» не отдаст покупателю ваш продукт.",
+          "Система обязательной маркировки товаров для пищевой отрасли «Честный знак» начала работать четыре года назад. Тогда она затрагивала только молочную продукцию."
+        ]
+      },
+      {
+        "title": "API | Официальный сайт сообщества маркировки «Честный знак»",
+        "url": "https://markirovka.ru/knowledge/fast_start/glossary/api",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Здравствуйте! как подключить валдбериз к честному знаку через API?",
+        "profile": {
+          "name": "Markirovka",
+          "url": "https://markirovka.ru/knowledge/fast_start/glossary/api",
+          "long_name": "markirovka.ru",
+          "img": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "markirovka.ru",
+          "hostname": "markirovka.ru",
+          "favicon": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw",
+          "path": "› knowledge  › fast_start  › glossary  › api"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/IPJ48cI0Y8wjdrGUj8st4q1tssJg0WLldQemiu_xyiA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tYXJr/aXJvdmthLnJ1L3Vw/bG9hZC9jb3Zlci5w/bmc",
+          "original": "https://markirovka.ru/upload/cover.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Application Programming Interface (API) — программный интерфейс приложения. Представляет собой совокупность способов, протоколов, инструментов, с помощью которых различные программы обмениваются своими возможностями и данными…",
+          "Здравствуйте! как подключить валдбериз к честному знаку через API?"
+        ]
+      },
+      {
+        "title": "Проверка маркированной продукции в момент приёмки по критериями разрешительного режима по API | Официальный сайт сообщества маркировки «Честный знак»",
+        "url": "https://markirovka.ru/community/rezhim-proverok-na-kassakh/proverka-markirovannoy-produktsii-v-moment-priyemki-po-kriteriyami-razreshitelnogo-rezhima-po-api",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Представитель Честного знака 22 января 2025 · Использование метода API разрешительного режима разрешено только в момент перед розничной продажей.",
+        "page_age": "2025-01-22T00:00:00",
+        "profile": {
+          "name": "Markirovka",
+          "url": "https://markirovka.ru/community/rezhim-proverok-na-kassakh/proverka-markirovannoy-produktsii-v-moment-priyemki-po-kriteriyami-razreshitelnogo-rezhima-po-api",
+          "long_name": "markirovka.ru",
+          "img": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "markirovka.ru",
+          "hostname": "markirovka.ru",
+          "favicon": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw",
+          "path": "› community  › rezhim-proverok-na-kassakh  › proverka-markirovannoy-produktsii-v-moment-priyemki-po-kriteriyami-razreshitelnogo-rezhima-po-api"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/IPJ48cI0Y8wjdrGUj8st4q1tssJg0WLldQemiu_xyiA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tYXJr/aXJvdmthLnJ1L3Vw/bG9hZC9jb3Zlci5w/bmc",
+          "original": "https://markirovka.ru/upload/cover.png",
+          "logo": false
+        },
+        "age": "January 22, 2025",
+        "extra_snippets": [
+          "Использование метода API разрешительного режима разрешено только в момент перед розничной продажей. Проверка принимаемой продукции с использованием этого метода запрещена.",
+          "Статья Честного ЗНАКа · Добавить в закладки Подписаться · Необходимо авторизоваться или зарегистрироваться на портале · Войти Отмена · Антисептики ·",
+          "Представитель Честного знака 22 января 2025 · Использование метода API разрешительного режима разрешено только в момент перед розничной продажей."
+        ]
+      },
+      {
+        "title": "API Честный знак как получить ключ сессии / Хабр",
+        "url": "https://habr.com/ru/articles/721622/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Привет, habr! Хочу поделиться опытом работы с API системой маркировки товаров «Честный Знак» (ЧЗ) / МДЛП (маркировка лекарственных препаратов), в части аутентификация ...",
+        "page_age": "2023-03-10T15:26:33",
+        "profile": {
+          "name": "Habr",
+          "url": "https://habr.com/ru/articles/721622/",
+          "long_name": "habr.com",
+          "img": "https://imgs.search.brave.com/U9Ky9LVSKyuSR1f51Am9A1Z_G_Uks9iCqa79Zhf1zGk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmI1ZTI1NmUy/MTc1ODVkODlkODAw/MzA1ZjcyMTlmNzVk/MzljMWU1ZmRiODlh/ZDg2NzkwNWVlOWYy/NzIyMTYwNy9oYWJy/LmNvbS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "habr.com",
+          "hostname": "habr.com",
+          "favicon": "https://imgs.search.brave.com/U9Ky9LVSKyuSR1f51Am9A1Z_G_Uks9iCqa79Zhf1zGk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmI1ZTI1NmUy/MTc1ODVkODlkODAw/MzA1ZjcyMTlmNzVk/MzljMWU1ZmRiODlh/ZDg2NzkwNWVlOWYy/NzIyMTYwNy9oYWJy/LmNvbS8",
+          "path": "› ru  › articles  › 721622"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/HDxSHVT0CE-10jTEcaMW8-NDqvkbpm5tCBCGSBvAcFU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9oYWJy/YXN0b3JhZ2Uub3Jn/L2dldHByby9oYWJy/L3VwbG9hZF9maWxl/cy8xN2QvNDU5LzM4/OS8xN2Q0NTkzODli/NmY0NzdkOWUwMjZh/OWZkMGYxOGY5OS5q/cGc",
+          "original": "https://habrastorage.org/getpro/habr/upload_files/17d/459/389/17d459389b6f477d9e026a9fd0f18f99.jpg",
+          "logo": false
+        },
+        "age": "March 10, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Артём Морозов"
+            }
+          ],
+          "date": "Mar 10, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "Habr",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/BzRGGmG6881f37VDE7AS_NhkjRzNTATxUr0bbFoFNNg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9oYWJy/YXN0b3JhZ2Uub3Jn/L3dlYnQvYV8vbGsv/OW0vYV9sazltamtj/Y2pveC16Y2NqcnBm/b2xta21xLnBuZw",
+              "original": "https://habrastorage.org/webt/a_/lk/9m/a_lk9mjkccjox-zccjrpfolmkmq.png"
+            }
+          }
+        },
+        "extra_snippets": [
+          "Привет, habr! Хочу поделиться опытом работы с API системой маркировки товаров «Честный Знак» (ЧЗ) / МДЛП (маркировка лекарственных препаратов), в части аутентификация и авторизация пользователей.",
+          "В рамках данной статьи опускается вопрос о том, что такое система «Честный знак», и каковы основы ее работы – если вы начали читать эту статью, наверняка основы вам уже известны."
+        ]
+      },
+      {
+        "title": "Начало работы с методами API системы маркировки Честный Знак для лекарственных препаратов | Официальный сайт сообщества маркировки «Честный знак»",
+        "url": "https://markirovka.ru/knowledge/lekarstva/api-mdlp/nachalo-raboty-s-metodami-api-sistemy-markirovki-chestnyy-znak-dlya-lekarstvennykh-preparatov",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Обмен данными на интерфейсном уровне с помощью методов API дает возможность взаимодействия системы маркировки Честный Знак для лекарственных препаратов с различными товароучетными системами.",
+        "profile": {
+          "name": "Markirovka",
+          "url": "https://markirovka.ru/knowledge/lekarstva/api-mdlp/nachalo-raboty-s-metodami-api-sistemy-markirovki-chestnyy-znak-dlya-lekarstvennykh-preparatov",
+          "long_name": "markirovka.ru",
+          "img": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "markirovka.ru",
+          "hostname": "markirovka.ru",
+          "favicon": "https://imgs.search.brave.com/iopuoC8NEDcpc760I9MXBMkRzMwBae-mzjVg9_YTeaA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ5NTQzMGU5/MGVkYzY3OGM4MGM3/NDU3Zjc4Njk5YmUy/ZDY4NzAwZjcyNjNh/YWM2NDYwYjFiZjFi/YTRjNGZkZS9tYXJr/aXJvdmthLnJ1Lw",
+          "path": "› knowledge  › lekarstva  › api-mdlp  › nachalo-raboty-s-metodami-api-sistemy-markirovki-chestnyy-znak-dlya-lekarstvennykh-preparatov"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/IPJ48cI0Y8wjdrGUj8st4q1tssJg0WLldQemiu_xyiA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tYXJr/aXJvdmthLnJ1L3Vw/bG9hZC9jb3Zlci5w/bmc",
+          "original": "https://markirovka.ru/upload/cover.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Обмен данными на интерфейсном уровне с помощью методов API дает возможность взаимодействия системы маркировки Честный Знак для лекарственных препаратов с различными товароучетными системами.",
+          "Документация доступна в разделе \"Помощь\" личного кабинета системы маркировки Честный Знак для лекарственных препаратов.",
+          "Как осуществляется интеграция товароучетных систем с системой маркировки Честный Знак для лекарственных препаратов?",
+          "Возможно ли получить информацию о вложенности SSCC в ЛК системы маркировки Честный знак для лекарственных препаратов методами API?"
+        ]
+      },
+      {
+        "title": "True API Честный знак: подключение и работа с маркировкой",
+        "url": "https://getmark.ru/blog/o-markirovke/true-api-chestnij-znak-podkluchenie-i-rabota-s-markirovkoj/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "True API Честный знак: подробная инструкция по подключению, настройке и интеграции. Методы, эндпоинты, авторизация и работа с кодами маркировки",
+        "profile": {
+          "name": "Getmark",
+          "url": "https://getmark.ru/blog/o-markirovke/true-api-chestnij-znak-podkluchenie-i-rabota-s-markirovkoj/",
+          "long_name": "getmark.ru",
+          "img": "https://imgs.search.brave.com/ytgG_VQjqgfmMHmPqN9uaQequipcW2ZKIc499hS1B4w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWJmNjRmZGU3/YTg5NmFlY2ExNjhh/NzFiZTE1NWQ5YmQ1/M2NkMjE5NDQ5ZmMz/OWRlMzdkNzgzMmI5/MTVlY2ExYi9nZXRt/YXJrLnJ1Lw"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "getmark.ru",
+          "hostname": "getmark.ru",
+          "favicon": "https://imgs.search.brave.com/ytgG_VQjqgfmMHmPqN9uaQequipcW2ZKIc499hS1B4w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWJmNjRmZGU3/YTg5NmFlY2ExNjhh/NzFiZTE1NWQ5YmQ1/M2NkMjE5NDQ5ZmMz/OWRlMzdkNzgzMmI5/MTVlY2ExYi9nZXRt/YXJrLnJ1Lw",
+          "path": "  › сервис маркировки  › блог  › о маркировке"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/uWQPyFVevE3myKLZ_Jad8yiqnSdOZCbwwngVkXZ8c_c/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nZXRt/YXJrLnJ1L3VwbG9h/ZC9pYmxvY2svNWM4/LzlhaGlscG5hODJo/b2VuaDIxcXVjMWRk/MDluODNrZnlhLnBu/Zw",
+          "original": "https://getmark.ru/upload/iblock/5c8/9ahilpna82hoenh21quc1dd09n83kfya.png",
+          "logo": false
+        },
+        "article": {
+          "author": []
+        },
+        "extra_snippets": [
+          "True API Честный знак: подробная инструкция по подключению, настройке и интеграции. Методы, эндпоинты, авторизация и работа с кодами маркировки",
+          "Дальше начинается хаос: операторы путают коды, УПД зависают, а штрафы копятся. True API системы «Честный знак» создан как раз для того, чтобы этот хаос превратить в управляемый поток данных.",
+          "Компания GetMark предлагает полное сопровождение маркировки - от регистрации в «Честном знаке» до настройки интеграции и печати кодов. Стоимость услуг маркировки - от 3 500 ₽ за категорию.",
+          "#ТОРГ-12 #УПД #маркировка #отличие #формат 5.03 #ЭДО #Честный знак #коды маркировки #счёт-фактура #отмена ТОРГ-12 #учётная политика #статус УПД #EAN-13 #штрихкод #GTIN #Data Matrix #код маркировки #GS1 #ГС1 РУС #проверка штрих-кода #префикс #контрольная цифра #ITF-14 #EAN-8 #честный знак #маркетплейсы #МРЦ в маркировке #максимальная розничная цена #МРЦ табак"
+        ]
+      },
+      {
+        "title": "Документация для разработчиков технологических процессов | Официальный сайт Честный ЗНАК",
+        "url": "https://xn--80ajghhoc2aj1c8b.xn--p1ai/business/projects/developers/instructions/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Регистрация в системе Честный ЗНАК – необходимое требование для всех участников оборота маркированной продукции",
+        "profile": {
+          "name": "Xn--80ajghhoc2aj1c8b",
+          "url": "https://xn--80ajghhoc2aj1c8b.xn--p1ai/business/projects/developers/instructions/",
+          "long_name": "xn--80ajghhoc2aj1c8b.xn--p1ai",
+          "img": "https://imgs.search.brave.com/pDqqnmk-iVrpda24PgzpR2784-b8hbDSsvrzJApdBAA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE3NzNlYmJh/YTUyYzc1NDI5MjJi/MDJkMDQ4YjI1NDk1/MzcwMDBlNDc0Yjk5/ZjgyMmUyNjFkN2Ri/NTVjNjNjMi94bi0t/ODBhamdoaG9jMmFq/MWM4Yi54bi0tcDFh/aS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "xn--80ajghhoc2aj1c8b.xn--p1ai",
+          "hostname": "xn--80ajghhoc2aj1c8b.xn--p1ai",
+          "favicon": "https://imgs.search.brave.com/pDqqnmk-iVrpda24PgzpR2784-b8hbDSsvrzJApdBAA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE3NzNlYmJh/YTUyYzc1NDI5MjJi/MDJkMDQ4YjI1NDk1/MzcwMDBlNDc0Yjk5/ZjgyMmUyNjFkN2Ri/NTVjNjNjMi94bi0t/ODBhamdoaG9jMmFq/MWM4Yi54bi0tcDFh/aS8",
+          "path": "  › главная  › назад  › технологическим партнёрам"
+        },
+        "extra_snippets": [
+          "Регистрация в системе Честный ЗНАК – необходимое требование для всех участников оборота маркированной продукции",
+          "Официальный сайт государственной системы маркировки и прослеживания «Честный знак»"
+        ]
+      },
+      {
+        "title": "API Честного ЗНАКА: как подключиться к ЭДО Лайт, ГИС МТ и Национальному каталогу",
+        "url": "https://totalcrm.ru/blog/2025/11/api-chestnogo-znaka-kak-podklyuchitsya-k-edo-lajt-gis-mt-i-nacionalnomu-katalogu_60",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Подключение к Честному ЗНАКУ через API — к ГИС МТ, ЭДО Лайт и Национальному каталогу — открывает возможности для автоматизации маркировки, ускорения документооборота и упрощения работы с товарными данными.",
+        "profile": {
+          "name": "TotalCRM",
+          "url": "https://totalcrm.ru/blog/2025/11/api-chestnogo-znaka-kak-podklyuchitsya-k-edo-lajt-gis-mt-i-nacionalnomu-katalogu_60",
+          "long_name": "totalcrm.ru",
+          "img": "https://imgs.search.brave.com/Im-IulOQYw2s3Izq2D4NZvKPb4GypkJaxoN_9npbZ_g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzRiMGZkYzlh/NDAxNGIwYjRhMDEx/MjA0YTNmNjczOTc3/NTRjODRjZmYxZjQy/YzA5ZTlhODZkZWU1/OGE1ZjdjNC90b3Rh/bGNybS5ydS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "totalcrm.ru",
+          "hostname": "totalcrm.ru",
+          "favicon": "https://imgs.search.brave.com/Im-IulOQYw2s3Izq2D4NZvKPb4GypkJaxoN_9npbZ_g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzRiMGZkYzlh/NDAxNGIwYjRhMDEx/MjA0YTNmNjczOTc3/NTRjODRjZmYxZjQy/YzA5ZTlhODZkZWU1/OGE1ZjdjNC90b3Rh/bGNybS5ydS8",
+          "path": "  › главная  › статьи"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ViKgH37cnTQV6g8VK-dD2IrBa-7_LgJm1M5VC0rcx8s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90b3Rh/bGNybS5ydS9hc3Nl/dHMvd2ViL2NhY2hl/L3NpdGUvODMvODQv/ODM4NDIxOTA4ODE2/MTA5OGFlZGI5ZmEx/MTBhZDc1ZGUud2Vi/cA",
+          "original": "https://totalcrm.ru/assets/web/cache/site/83/84/8384219088161098aedb9fa110ad75de.webp",
+          "logo": false
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "TotalCRM",
+              "url": "https://totalcrm.ru",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/_WSy6TAizCNNbG0mw2yOLMUa7X5cD9BYBlbibz8_qq0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90b3Rh/bGNybS5ydS9yZXNv/dXJjZXMvcHVibGlj/L2ljb25zL2FuZHJv/aWQtY2hyb21lLTUx/Mng1MTIucG5n",
+                "original": "https://totalcrm.ru/resources/public/icons/android-chrome-512x512.png"
+              },
+              "email": "info@totalcrm.ru"
+            }
+          ],
+          "publisher": {
+            "type": "organization",
+            "name": "TotalCRM",
+            "url": "https://totalcrm.ru",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/_WSy6TAizCNNbG0mw2yOLMUa7X5cD9BYBlbibz8_qq0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90b3Rh/bGNybS5ydS9yZXNv/dXJjZXMvcHVibGlj/L2ljb25zL2FuZHJv/aWQtY2hyb21lLTUx/Mng1MTIucG5n",
+              "original": "https://totalcrm.ru/resources/public/icons/android-chrome-512x512.png"
+            }
+          }
+        },
+        "organization": {
+          "type": "organization",
+          "name": "Totalcrm",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "Подключение к Честному ЗНАКУ через API — к ГИС МТ, ЭДО Лайт и Национальному каталогу — открывает возможности для автоматизации маркировки, ускорения документооборота и упрощения работы с товарными данными.",
+          "API Честного ЗНАКА - это набор интерфейсов, позволяющих системам обмениваться информацией о маркировке без участия человека.",
+          "Интеграция с Честным ЗНАКОМ через API позволяет выстроить более прозрачные и быстрые процессы, ускорить обмен информацией и повысить точность работы с маркировкой.",
+          "API Честного ЗНАКА: как подключиться к ЭДО Лайт, ГИС МТ и Национальному каталогу"
+        ]
+      },
+      {
+        "title": "Маркировка воды — инструкции, документация, API | Официальный сайт Честный ЗНАК",
+        "url": "https://xn--80ajghhoc2aj1c8b.xn--p1ai/business/projects/water/instructions/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Регистрация в системе Честный знак — необходимое требование для всех участников оборота маркированной продукции",
+        "profile": {
+          "name": "Xn--80ajghhoc2aj1c8b",
+          "url": "https://xn--80ajghhoc2aj1c8b.xn--p1ai/business/projects/water/instructions/",
+          "long_name": "xn--80ajghhoc2aj1c8b.xn--p1ai",
+          "img": "https://imgs.search.brave.com/pDqqnmk-iVrpda24PgzpR2784-b8hbDSsvrzJApdBAA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE3NzNlYmJh/YTUyYzc1NDI5MjJi/MDJkMDQ4YjI1NDk1/MzcwMDBlNDc0Yjk5/ZjgyMmUyNjFkN2Ri/NTVjNjNjMi94bi0t/ODBhamdoaG9jMmFq/MWM4Yi54bi0tcDFh/aS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "xn--80ajghhoc2aj1c8b.xn--p1ai",
+          "hostname": "xn--80ajghhoc2aj1c8b.xn--p1ai",
+          "favicon": "https://imgs.search.brave.com/pDqqnmk-iVrpda24PgzpR2784-b8hbDSsvrzJApdBAA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE3NzNlYmJh/YTUyYzc1NDI5MjJi/MDJkMDQ4YjI1NDk1/MzcwMDBlNDc0Yjk5/ZjgyMmUyNjFkN2Ri/NTVjNjNjMi94bi0t/ODBhamdoaG9jMmFq/MWM4Yi54bi0tcDFh/aS8",
+          "path": "  › главная"
+        },
+        "extra_snippets": [
+          "Регистрация в системе Честный знак — необходимое требование для всех участников оборота маркированной продукции",
+          "Официальный сайт государственной системы маркировки и прослеживания «Честный знак»",
+          "Руководство пользователя мобильного приложения «Честный ЗНАК.Бизнес»"
+        ]
+      },
+      {
+        "title": "Работа с документами по API \"Честный знак\"",
+        "url": "https://mista.ru/topic/895868",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Работа с документами по API",
+        "profile": {
+          "name": "Mista",
+          "url": "https://mista.ru/topic/895868",
+          "long_name": "mista.ru",
+          "img": "https://imgs.search.brave.com/73Lm96wK2nFBHfixjNjQ9jPZB7TPBIX5aXnnWk9XYwk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY1NzUzZjky/Njk4NmNhNDM5Mzcy/NjM4M2Q5NzZlMmU2/MzhiOTZhZWIyN2Yz/MzhjNzAwMDFkYmRk/ZTUxZjk3Ny9taXN0/YS5ydS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "mista.ru",
+          "hostname": "mista.ru",
+          "favicon": "https://imgs.search.brave.com/73Lm96wK2nFBHfixjNjQ9jPZB7TPBIX5aXnnWk9XYwk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY1NzUzZjky/Njk4NmNhNDM5Mzcy/NjM4M2Q5NzZlMmU2/MzhiOTZhZWIyN2Yz/MzhjNzAwMDFkYmRk/ZTUxZjk3Ny9taXN0/YS5ydS8",
+          "path": "› topic  › 895868"
+        }
+      },
+      {
+        "title": "Продажа маркированных товаров | Документация LIFE PAY",
+        "url": "https://docs.life-pos.ru/lpos/60/sales/labeling",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Чтобы код маркировки правильно обрабатывался во всех системах, он должен соответствовать требованиям «Честного знака». Специальные символы нужно экранировать по стандарту RFC 8259, а &lt;GS&gt; заменять на \\u001D",
+        "profile": {
+          "name": "Life-pos",
+          "url": "https://docs.life-pos.ru/lpos/60/sales/labeling",
+          "long_name": "docs.life-pos.ru",
+          "img": "https://imgs.search.brave.com/8o0ZKkZctcm9AqhqaK0Yv2kpJck2nJ0brYCd5e2Gvhc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJkYWEyZDc1/NjNjZjViNjdiYjEw/YTJlZDgxNjUzMDAw/MTBiMTQ5OTFmM2Fi/YzkyNmZkN2VlNmEz/Y2Q0NTE5Yy9kb2Nz/LmxpZmUtcG9zLnJ1/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "docs.life-pos.ru",
+          "hostname": "docs.life-pos.ru",
+          "favicon": "https://imgs.search.brave.com/8o0ZKkZctcm9AqhqaK0Yv2kpJck2nJ0brYCd5e2Gvhc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJkYWEyZDc1/NjNjZjViNjdiYjEw/YTJlZDgxNjUzMDAw/MTBiMTQ5OTFmM2Fi/YzkyNmZkN2VlNmEz/Y2Q0NTE5Yy9kb2Nz/LmxpZmUtcG9zLnJ1/Lw",
+          "path": "  › продажа маркированных товаров"
+        },
+        "extra_snippets": [
+          "Коды маркировки нужны, чтобы товар можно было отследить по всей цепочке от производителя до конечного покупателя. Данные о лекарствах собирает ИС МДЛП, а об остальных маркированных товарах — система «Честный знак».",
+          "Чтобы код маркировки правильно обрабатывался во всех системах, он должен соответствовать требованиям «Честного знака». Специальные символы нужно экранировать по стандарту RFC 8259, а <GS> заменять на \\u001D"
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}
